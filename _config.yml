@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Md Abdullah Al Hafiz Khan"
 title_separator          : "-"
-name                     : &name "Md Abdullah Al Hafiz Khan"
+name                     : &name "Hafiz Khan"
 description              : &description "personal description"
 url                      : https://ahafizk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Hafiz Khan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Cambridge"
+  bio              : "Research Scientist, AI Lab at Philips Research at North America"
+  location         : "Cambridge, MA"
   employer         : "Philips"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=JFZc5jYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "ahafizk19"
   vine             :
   weibo            :
   xing             :
@@ -223,7 +223,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
       comments: true
