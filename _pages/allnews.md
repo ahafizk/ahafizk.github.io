@@ -1,6 +1,6 @@
 ---
 title: "News"
-layout: textlay
+layout: compress
 excerpt: "Hafiz Khan"
 sitemap: false
 permalink: /allnews.html
