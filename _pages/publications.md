@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## Journal Publications
+## Journal Publications 
 	
 1. <b>[Wearable Sensor-based Location-specific Occupancy Detection in Smart Environments.](href='https://www.hindawi.com/journals/misy/)</b><br> 
 <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy, H M Sajjad Hossain. 
