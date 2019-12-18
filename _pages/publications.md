@@ -38,7 +38,7 @@ Rahul Pandey, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower, <b>Md Abdulla
 Abu Zaher Md Faridee, <b>Md Abdullah Al Hafiz Khan</b>, Nilavra Pathak, Nirmalya Roy.
 <i>16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services, MobiQuitous 2019. Houston, United States.</i>
 
-1. <b>[UnTran: Recognizing Unseen Activities with Unlabeled data using Transfer Learning](link)</b> <br>
+1. <b>[UnTran: Recognizing Unseen Activities with Unlabeled data using Transfer Learning](https://ahafizk.github.io/publications/iotdi-2018)</b> <br>
  <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. <i>In ACM/IEEE International Conference on Internet-of-Things Design and Implementation (IoTDI) (IoTDI 2018). Orlando, Florida, USA.</i><span style="color:red">(Text)</span>
 
 1. <b>[Firearm Detection Using Wrist Worn Tri-Axis Accelerometer Signals](link)</b><br>
