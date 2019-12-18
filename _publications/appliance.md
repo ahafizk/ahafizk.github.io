@@ -7,6 +7,14 @@ venue: 'PerCom'
 citation: 'Nilavra Pathak, <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. <i>In PerCom 2015, St. Louis, Missouri. </i>'
 ---
 
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
+<button onclick="goBack()">Go Back</button>
+
 [Download PDF](https://ahafizk.github.io/files/appliance.pdf)
 
 <b>Abstract:</b>

@@ -7,6 +7,14 @@ venue: 'PerCom'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, H M Sajjad Hossain, Nirmalya Roy. In Proceeding of 2015 16th IEEE International Conference on Mobile Data Management'
 ---
 
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
+<button onclick="goBack()">Go Back</button>
+
 [Download PDF](https://ahafizk.github.io/files/sensepresence.pdf)
 
 <b>Abstract:</b>

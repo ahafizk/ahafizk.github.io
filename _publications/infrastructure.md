@@ -6,6 +6,13 @@ excerpt: ''
 venue: 'PerCom'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, H M Sajjad Hossain, Nirmalya Roy. <i>EAI Endorsed Transactions on Context-aware Systems and Applications 15(5): e3, 2015.</i>'
 ---
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
+<button onclick="goBack()">Go Back</button>
 
 [Download PDF](https://ahafizk.github.io/files/infrastructure.pdf)
 

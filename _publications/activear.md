@@ -6,6 +6,13 @@ excerpt: ''
 venue: 'PerCom'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. In Proceeding of of The First International Workshop on Pervasive Smart Living Spaces, <b>PerLS - 2017</b>. Kona, Big Island of Hawaii, USA.'
 ---
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
+<button onclick="goBack()">Go Back</button>
 
 [Download PDF](https://ahafizk.github.io/files/activear.pdf)
 

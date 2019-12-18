@@ -6,6 +6,13 @@ excerpt: ''
 venue: 'PerCom'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. In IEEE international conference on Pervasive Computing and Communication, <b>PerCom 2018</b>. Athens, Greece.'
 ---
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
+<button onclick="goBack()">Go Back</button>
 
 [Download PDF](https://ahafizk.github.io/files/PerCom-2018.pdf)
 

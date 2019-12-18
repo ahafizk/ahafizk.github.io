@@ -7,6 +7,13 @@ venue: 'PMC'
 citation: 'H M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.
 <i>Pervasive and Mobile Computing (PMC) Journal, Elsevier 2016 </i>'
 ---
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
+<button onclick="goBack()">Go Back</button>
 
 [Download PDF](https://ahafizk.github.io/files/pmc.pdf)
 

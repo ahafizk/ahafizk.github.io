@@ -8,6 +8,14 @@ citation: 'Abu Zaher Md Faridee, <b>Md Abdullah Al Hafiz Khan</b>, Nilavra Patha
 <i>16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services, MobiQuitous 2019. Houston, United States.</i>'
 ---
 
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
+<button onclick="goBack()">Go Back</button>
+
 [Download PDF](https://ahafizk.github.io/files/augtoact.pdf)
 
 <b>Abstract:</b>
