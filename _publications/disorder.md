@@ -1,7 +1,7 @@
 ---
 title: "BoostER: A Performance Boosting Module for Biomedical Entity Recognition."
 collection: publications
-permalink: /publication/disorder
+permalink: /publications/disorder
 excerpt: ''
 venue: 'BIBM'
 citation: 'Rahul Pandey, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower,
