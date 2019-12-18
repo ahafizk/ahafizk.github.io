@@ -7,6 +7,13 @@ venue: 'PerCom'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. In Proceeding of of The First International Workshop on Pervasive Smart Living Spaces, <b>PerLS - 2017</b>. Kona, Big Island of Hawaii, USA.'
 ---
 
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+
+<button onclick="goBack()">Go Back</button>
 [Download PDF](https://ahafizk.github.io/files/perls-2017.pdf)
 
 <b>Abstract:</b>
@@ -29,5 +36,5 @@ Transfer Boost algorithm with k-means clustering. We evaluated
 our TransAct model with three public datasets - HAR, MHealth
 and Daily AndSports and demonstrated that our TransAct model
 outperforms traditional activity recognition approaches. Our
-experimental results show that our TransAct model achieves :::::::
+experimental results show that our TransAct model achieves 
 81 % activity detection accuracy on average.
