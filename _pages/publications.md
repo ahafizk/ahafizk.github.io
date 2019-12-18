@@ -31,7 +31,7 @@ H M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.
 1. <b>[Improving Disease Named Entity Recognition for Clinical Trial Matching](http://ahafizk.github.io/publications/disorder)</b><br>
 <b>Md Abdullah Al Hafiz Khan</b>, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower, Joey Liu, Vivek Datla, Mladen Milosevic, Gabe Mankovich, Rob van Ommering, Nevenka Dimitrova. <i> BIBM workshop (AIBH) 2019.</i>
 
-1. <b>[BoostER: A Performance Boosting Module for Biomedical Entity Recognition](http://ahafizk.github.io/publications/booster)</b><br>
+1. <b>[BoostER: A Performance Boosting Module for Biomedical Entity Recognition](http://ahafizk.github.io/booster)</b><br>
 Rahul Pandey, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower, <b>Md Abdullah Al Hafiz Khan</b>, Joey Liu, Vivek Datla, Mladen Milosevic, Gabe Mankovich, Rob van Ommering, Nevenka Dimitrova. <i>BIBM workshop (AIBH) 2019.</i>
 
 1. <b>[AugToAct: Scaling Complex Human Activity Recognition with Few Labels]()</b><br>
