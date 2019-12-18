@@ -1,7 +1,7 @@
 ---
 title: "UnTran: Recognizing Unseen Activities with Unlabeled data using Transfer Learning."
 collection: publications
-permalink: /publication/iotdi-2018
+permalink: /publications/iotdi-2018
 excerpt: ''
 venue: 'IoTDI'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. In ACM/IEEE International Conference on Internet-of-Things Design and Implementation, <i><b>IoTDI 2018</b></i>. Orlando, Florida, USA.'

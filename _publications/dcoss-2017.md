@@ -1,7 +1,7 @@
 ---
 title: "COAR: Collaborative and Opportunistic Human Activity Recognition."
 collection: publications
-permalink: /publication/dcoss-2018
+permalink: /publications/dcoss-2018
 excerpt: ''
 venue: 'DCOSS'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy,  H M Sajjad Hossain. In Proceeding of the 13th International Conference on Distributed Computing in Sensor Systems, <b>DCOSS-2017</b>. Ottawa, Canada.'

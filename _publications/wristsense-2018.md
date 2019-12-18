@@ -1,7 +1,7 @@
 ---
 title: "Firearm Detection Using Wrist Worn Tri-Axis Accelerometer Signals."
 collection: publications
-permalink: /publication/wristsense-2018
+permalink: /publications/wristsense-2018
 excerpt: ''
 venue: 'PerCom'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. In IEEE Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices, <b>WristSense 2018</b>. Athens, Greece.'

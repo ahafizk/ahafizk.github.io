@@ -1,7 +1,7 @@
 ---
 title: "Scaling Human Activity Recognition via Deep Learning-based Domain Adaptation."
 collection: publications
-permalink: /publication/percom-2018
+permalink: /publications/percom-2018
 excerpt: ''
 venue: 'PerCom'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. In IEEE international conference on Pervasive Computing and Communication, <b>PerCom 2018</b>. Athens, Greece.'

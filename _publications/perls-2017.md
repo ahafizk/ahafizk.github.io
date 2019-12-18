@@ -1,7 +1,7 @@
 ---
 title: "TransAct: Transfer learning enabled activity recognition."
 collection: publications
-permalink: /publication/perls-2017
+permalink: /publications/perls-2017
 excerpt: ''
 venue: 'PerCom'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. In Proceeding of of The First International Workshop on Pervasive Smart Living Spaces, <b>PerLS - 2017</b>. Kona, Big Island of Hawaii, USA.'

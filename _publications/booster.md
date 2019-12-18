@@ -1,7 +1,7 @@
 ---
 title: "BoostER: A Performance Boosting Module for Biomedical Entity Recognition."
 collection: publications
-permalink: /publication/booster
+permalink: /publications/booster
 excerpt: ''
 venue: 'BIBM'
 citation: '<b>Md Abdullah Al Hafiz Khan</b>, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower, Joey Liu, Vivek Datla, Mladen Milosevic, Gabe Mankovich, Rob van Ommering, Nevenka Dimitrova. In Proceeding of BIBM workshop (AIBH - 2019), San Diego, California, USA.'
