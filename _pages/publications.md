@@ -15,7 +15,8 @@ author_profile: true
  M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. 
 <i>Proceedings of ACM Interactive Mobile, Wearable, & Ubiquitous Technology. (IMWUT) (June 2018)</i>
 
-1. <b>[An Active Sleep Monitoring Framework Using Wearables](http://ahafizk.github.io/publications/activesleep)</b><br>H M Sajjad Hossain, Sreenivasan R. Ramamurthy, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.<i>ACM Transactions on Interactive Intelligent Systems (TIIS), 2017.</i>
+1. <b>[An Active Sleep Monitoring Framework Using Wearables](http://ahafizk.github.io/publications/activesleep)</b> <br>
+H M Sajjad Hossain, Sreenivasan R. Ramamurthy, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.<i>ACM Transactions on Interactive Intelligent Systems (TIIS), 2017.</i>
 
 
 1. <b>[Active Learning Enabled Activity Recognition](http://ahafizk.github.io/publications/pmc)</b>

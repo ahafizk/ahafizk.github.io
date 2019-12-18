@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "CV"
+title: "CV [(PDF)]({{https://ahafizk.github.io/files/Khan_Resume.pdf}})"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,12 +7,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-<span style="color:red">Under Construction</span>
-<!-- Education
+
+Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Information System &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; January, 2014 - May, 2019
+<br>University of Maryland, Baltimore County, Baltimore, Maryland, USA.&emsp;&emsp; CGPA: 3.79/4.0
+  * Dissertation Title: **Cross-Domain Scalable Activity Recognition Models in Smart Environments**
+
+* Bachelor of Science, Computer Science and Engineering &emsp;  March, 2004 - March, 2009<br>
+Bangladesh University of Engineering & Technology, Dhaka, Bangladesh.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; CGPA: 3.50/4.0 
+  * Thesis Title: **Admission Control Algorithm for reliable web service**
 
 Work experience
 ======
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams
