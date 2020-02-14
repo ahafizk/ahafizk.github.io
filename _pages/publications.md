@@ -5,29 +5,6 @@ author_profile: true
 ---
 
 
-## Journal Publications 
-	
-1. <b>[Wearable Sensor-based Location-specific Occupancy Detection in Smart Environments.](href='https://www.hindawi.com/journals/misy/)</b><br> 
-<b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy, H M Sajjad Hossain. 
-<i>Mobile Information Systems (MIS 2018) Journal. January, 2018.</i>
-
-1. <b> [DeActive: Scaling Activity Recognition with Active Deep Learning](http://ahafizk.github.io/publications/deactive)</b> <br>
- M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. 
-<i>Proceedings of ACM Interactive Mobile, Wearable, & Ubiquitous Technology. (IMWUT) (June 2018)</i>
-
-1. <b>[An Active Sleep Monitoring Framework Using Wearables](http://ahafizk.github.io/publications/activesleep)</b> <br>
-H M Sajjad Hossain, Sreenivasan R. Ramamurthy, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.<i>ACM Transactions on Interactive Intelligent Systems (TIIS), 2017.</i>
-
-
-1. <b>[Active Learning Enabled Activity Recognition](http://ahafizk.github.io/publications/pmc)</b>
-<br>
-H M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.
-<i>Pervasive and Mobile Computing (PMC) Journal, Elsevier 2016 </i>
-
-1. <b>[Infrastructure-less Occupancy Detection and Semantic Localization in Smart Environments](http://ahafizk.github.io/publications/infrastructure)</b><br>
-<b>Md Abdullah Al Hafiz Khan</b>, H M Sajjad Hossain, Nirmalya Roy. <i>EAI Endorsed Transactions on Context-aware Systems and Applications 15(5): e3, 2015.</i>
-
-
 ## Conference Publications
 1. <b>[Improving Disease Named Entity Recognition for Clinical Trial Matching](http://ahafizk.github.io/publications/disorder)</b><br>
 <b>Md Abdullah Al Hafiz Khan</b>, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower, Joey Liu, Vivek Datla, Mladen Milosevic, Gabe Mankovich, Rob van Ommering, Nevenka Dimitrova. <i> BIBM workshop (AIBH) 2019.</i>
@@ -84,6 +61,33 @@ Nilavra Pathak, <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. <i>In PerCom 201
 1.  <b>[Demo abstract: a microphone sensor based system for green building applications](http://ahafizk.github.io/publications/demoabstract)</b>
 <br>
 <b>Md Abdullah Al Hafiz Khan</b>, Sheung Lu, Nirmalya Roy, Nilavra Pathak. <i>Pervasive Computing and Communication Workshops (PerCom Workshops), 2015 IEEE International Conference. Louis, Missouri.</i> 
+
+
+
+
+
+## Journal Publications 
+	
+1. <b>[Wearable Sensor-based Location-specific Occupancy Detection in Smart Environments.](href='https://www.hindawi.com/journals/misy/)</b><br> 
+<b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy, H M Sajjad Hossain. 
+<i>Mobile Information Systems (MIS 2018) Journal. January, 2018.</i>
+
+1. <b> [DeActive: Scaling Activity Recognition with Active Deep Learning](http://ahafizk.github.io/publications/deactive)</b> <br>
+ M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. 
+<i>Proceedings of ACM Interactive Mobile, Wearable, & Ubiquitous Technology. (IMWUT) (June 2018)</i>
+
+1. <b>[An Active Sleep Monitoring Framework Using Wearables](http://ahafizk.github.io/publications/activesleep)</b> <br>
+H M Sajjad Hossain, Sreenivasan R. Ramamurthy, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.<i>ACM Transactions on Interactive Intelligent Systems (TIIS), 2017.</i>
+
+
+1. <b>[Active Learning Enabled Activity Recognition](http://ahafizk.github.io/publications/pmc)</b>
+<br>
+H M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.
+<i>Pervasive and Mobile Computing (PMC) Journal, Elsevier 2016 </i>
+
+1. <b>[Infrastructure-less Occupancy Detection and Semantic Localization in Smart Environments](http://ahafizk.github.io/publications/infrastructure)</b><br>
+<b>Md Abdullah Al Hafiz Khan</b>, H M Sajjad Hossain, Nirmalya Roy. <i>EAI Endorsed Transactions on Context-aware Systems and Applications 15(5): e3, 2015.</i>
+
 
 <!-- {% if author.googlescholar %}
   Publication List <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
