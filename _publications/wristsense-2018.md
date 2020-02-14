@@ -15,7 +15,7 @@ function goBack() {
 
 <button onclick="goBack()">Go Back</button>
 
-[Download PDF](https://ahafizk.github.io/files/WristSense-2018.pdf)
+[Download PDF](https://ahafizk.github.io/files/WristSense-2018.pdf) [Source](https://github.com/ahafizk/FirearmRecognition)
 
 <b>Abstract:</b>
 

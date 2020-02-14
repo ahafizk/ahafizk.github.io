@@ -43,7 +43,7 @@ Abu Zaher Md Faridee, <b>Md Abdullah Al Hafiz Khan</b>, Nilavra Pathak, Nirmalya
  <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. <i>In ACM/IEEE International Conference on Internet-of-Things Design and Implementation (IoTDI) (IoTDI 2018). Orlando, Florida, USA.</i>
 
 1. <b>[Firearm Detection Using Wrist Worn Tri-Axis Accelerometer Signals](http://ahafizk.github.io/publications/wristsense-2018)</b><br>
-<b>Md Abdullah Al Hafiz Khan</b>, David Welsh, Nirmalya Roy.<i> Accepted in IEEE Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices (WristSense), 2018. Athens, Greece.</i>
+<b>Md Abdullah Al Hafiz Khan</b>, David Welsh, Nirmalya Roy.<i> Accepted in IEEE Workshop on Sensing Systems and Applications Using Wrist Worn Smart Devices (WristSense), 2018. Athens, Greece.</i> 
 
 1. <b>[Scaling Human Activity Recognition via Deep Learning-based Domain Adaptation](http://ahafizk.github.io/publications/percom-2018)</b><br>
 <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy, Archan Misra. <i>In IEEE international conference on Pervasive Computing and Communication (PerCom), 2018. Athens, Greece.</i>
