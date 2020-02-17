@@ -19,7 +19,7 @@
 
 
 
-<title>Portfolio item number 2 - Md Abdullah Al Hafiz Khan</title>
+<title>HAR from Smartphone to smartwatch accelerometer data (vice versa)  Md Abdullah Al Hafiz Khan</title>
 
 
 
@@ -29,15 +29,15 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Md Abdullah Al Hafiz Khan">
-<meta property="og:title" content="Portfolio item number 2">
+<meta property="og:title" content="HAR from Smartphone to smartwatch accelerometer data (vice versa)">
 
 
-  <link rel="canonical" href="http://localhost:4000/portfolio/portfolio-2/">
-  <meta property="og:url" content="http://localhost:4000/portfolio/portfolio-2/">
+  <link rel="canonical" href="http://localhost:4000/portfolio/1_hdcnn/">
+  <meta property="og:url" content="http://localhost:4000/portfolio/1_hdcnn/">
 
 
 
-  <meta property="og:description" content="Short description of portfolio item number 2 ">
+  <meta property="og:description" content="Feature representation from different smart devices">
 
 
 
@@ -266,15 +266,15 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Portfolio item number 2">
-    <meta itemprop="description" content="Short description of portfolio item number 2 ">
+    <meta itemprop="headline" content="HAR from Smartphone to smartwatch accelerometer data (vice versa)">
+    <meta itemprop="description" content="Feature representation from different smart devices">
     
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Portfolio item number 2
+          <h1 class="page__title" itemprop="headline"><font color="green">HAR from Smartphone to smartwatch accelerometer data (vice versa)</font>
 </h1>
           
         
@@ -288,7 +288,28 @@
       
 
       <section class="page__content" itemprop="text">
-        This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+        <p>We investigate the problem of making human activity recognition (AR) scalable–i.e., allowing AR classifiers trained in one context to be readily adapted to a different contextual domain. This is important because AR technologies can achieve high accuracy if the classifiers are trained for a specific individual or device, but show significant degradation when the same classifier is applied context–e.g., to a different device located at a different on-body position. To allow such adaptation without requiring the onerous step of collecting large volumes of labeled training data in the target domain, we proposed a transductive transfer learning model that is specifically tuned to the properties of convolutional neural networks (CNNs). Our model, called HDCNN, assumes that the relative distribution of weights in the different CNN layers will remain invariant, as long as the set of activities being monitored does not change. Evaluation on realworld data shows that HDCNN is able to achieve high accuracy even without any labeled training data in the target domain, and offers even higher accuracy (significantly outperforming competitive shallow and deep classifiers) when even a modest amount of labeled training data is available. <br /></p>
+
+<center>
+<figure>
+	<img src="/images/hdcnn.png" class="center" />
+	<figcaption>Fig. Heterogeneous Deep Convolutional Neural Network (HDCNN) architecture</figcaption>
+</figure>
+</center>
+
+<p><br />
+<b>Key Contributions Contributions:</b>
+<br /></p>
+<li> <b><font color="blue">Deep Learning-based Domain Adaptation:</font></b> We propose a transfer learning motivated CNN-based activity recognition framework, called Heterogeneous Deep Convolutional Neural Network (HDCNN) that automatically adapts and learns the model across different domains–i.e.,
+<i>user, device type, device instances </i> combinations. Our adaptation model works on the assumption that the distribution of weights in the convolutional layers remains largely unchanged across different contexts, and thus automatically adjusts the weights while minimizing this divergence in weight distributions.
+</li>
+<li><b><font color="blue">Ability to Adapt with No or Minimal Labeled Data in Target Context:</font></b> Our approach assumes that the set of
+daily lifestyle activities being monitored (i.e., the set of output activity labels) remains the same in both source
+and target contexts. We design the transfer learning approach such that it implicitly incorporates the source context activity labels, and thus does not require any explicitly-labeled target training data. If even a modest amount of target-domain labeled data is available, then the classifier can be rapidly adapted further, to provide superior performance.
+</li>
+<li>
+	<b><font color="blue">Empirical Demonstration of Superior Performance:</font></b> We use our real-world data to demonstrate how HDCNN outperforms other alternatives. In particular, HDCNN achieves more than 80% accuracy when adapting in the absence of any target-domain labeled data, with this accuracy exceeding 87% accuracy with only 10% labeled (about 26 mins of activity) data in the target domain. Noticeably, HDCNN achieves approx. 80% classification accuracy when adapting across deviceinstances (smartwatch!smartphone, and vice versa), where unadapted baseline model achieves accuracy 38% (smartphone!smartwatch, and vice versa), outperforming competitive transfer learning models by over 10%.
+</li>
 
         
       </section>
@@ -309,11 +330,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/portfolio/portfolio-2/" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/portfolio/1_hdcnn/" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/portfolio/portfolio-2/" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/portfolio/1_hdcnn/" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/portfolio/portfolio-2/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/portfolio/1_hdcnn/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -321,11 +342,11 @@
 
   <nav class="pagination">
     
-      <a href="http://localhost:4000/portfolio/portfolio-1/" class="pagination--pager" title="Portfolio item number 1
-">Previous</a>
+      <a href="#" class="pagination--pager disabled">Previous</a>
     
     
-      <a href="#" class="pagination--pager disabled">Next</a>
+      <a href="http://localhost:4000/portfolio/2_portfolio-2/" class="pagination--pager" title="Portfolio item number 2
+">Next</a>
     
   </nav>
 
