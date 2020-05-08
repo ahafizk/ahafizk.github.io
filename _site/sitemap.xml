@@ -72,6 +72,9 @@
 <loc>http://localhost:4000/publications/pmc</loc>
 </url>
 <url>
+<loc>http://localhost:4000/publications/precision-oncology</loc>
+</url>
+<url>
 <loc>http://localhost:4000/publications/ram</loc>
 </url>
 <url>
@@ -185,6 +188,10 @@
 <url>
 <loc>http://localhost:4000/files/Khan_Resume.pdf</loc>
 <lastmod>2019-12-17T21:30:49-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/PM-hafiz-2020.pdf</loc>
+<lastmod>2020-05-08T07:25:37-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/PerCom-2018.pdf</loc>

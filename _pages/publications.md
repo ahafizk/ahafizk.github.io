@@ -68,6 +68,11 @@ Nilavra Pathak, <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. <i>In PerCom 201
 
 ## Journal Publications 
 	
+1. <b>[An Ontology-driven Treatment Article Retrieval Systemfor Precision Oncology.](http://ahafizk.github.io/publications/precision-oncology)</b><br> 
+Zheng Chen, Sadid A. Hasan, Joey Liu, Vivek Datla, Md Shamsuzzaman, <b>Md Abdullah Al Hafiz Khan</b>,Mohammad S Sorower, Gabe Mankovich, Rob van Ommering, Nevenka Dimitrova. 
+<i>In ArXiv, abs/2002.05653 (CoRR-2020), February 2020.</i>
+
+	
 1. <b>[Wearable Sensor-based Location-specific Occupancy Detection in Smart Environments.](href='https://www.hindawi.com/journals/misy/)</b><br> 
 <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy, H M Sajjad Hossain. 
 <i>Mobile Information Systems (MIS 2018) Journal. January, 2018.</i>
