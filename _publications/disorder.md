@@ -1,12 +1,10 @@
 ---
-title: "BoostER: A Performance Boosting Module for Biomedical Entity Recognition."
+title: "Improving Disease Named Entity Recognition forClinical Trial Matching."
 collection: publications
 permalink: /publications/disorder
 excerpt: ''
 venue: 'BIBM'
-citation: 'Rahul Pandey, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower,
-<b>Md Abdullah Al Hafiz Khan</b>, Joey Liu, Vivek Datla, Mladen Milosevic,
-Gabe Mankovich, Rob van Ommering, Nevenka Dimitrova. In Proceeding of BIBM workshop (AIBH - 2019), San Diego, California, USA.'
+citation: '<b>Md Abdullah Al Hafiz Khan</b>, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower, Joey Liu, Vivek Datla, Mladen Milosevic,Gabe Mankovich, Rob van Ommering, Nevenka Dimitrova. In Proceeding of BIBM workshop (AIBH - 2019), San Diego, California, USA.'
 ---
 
 <script>
