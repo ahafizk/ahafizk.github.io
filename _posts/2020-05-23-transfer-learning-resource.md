@@ -33,6 +33,16 @@ that is commonly used by transfer learning community.
     <td></td>
     <td>[Python](https://github.com/jindongwang/transferlearning/blob/master/code/distance/proxy_a_distance.py)</td>
   </tr>
+  
+  <tr>
+  <td>MMD and MK-MMD</td>
+  <td></td>
+  <td>
+  [Python](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_numpy_sklearn.py)
+  [PyTorch](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_pytorch.py)
+  [MatLab](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_matlab.m)
+  </td>
+  </tr>
 </table> 
 
 
