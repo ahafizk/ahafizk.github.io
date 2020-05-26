@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T09:04:55-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Md Abdullah Al Hafiz Khan</title><subtitle>personal description</subtitle><author><name>Hafiz Khan</name></author><entry><title type="html">Transfer Learning paper, codes and dataset</title><link href="http://localhost:4000/posts/2020/05/transfer-learning-resource/" rel="alternate" type="text/html" title="Transfer Learning paper, codes and dataset" /><published>2020-05-23T00:00:00-07:00</published><updated>2020-05-23T00:00:00-07:00</updated><id>http://localhost:4000/posts/2020/05/transfer-learning-resource</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/transfer-learning-resource/">&lt;p&gt;Searching for transfer leanring code is time-consuming and requires efforts. I collected some the basic resources
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T09:16:58-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Md Abdullah Al Hafiz Khan</title><subtitle>personal description</subtitle><author><name>Hafiz Khan</name></author><entry><title type="html">Transfer Learning paper, codes and dataset</title><link href="http://localhost:4000/posts/2020/05/transfer-learning-resource/" rel="alternate" type="text/html" title="Transfer Learning paper, codes and dataset" /><published>2020-05-23T00:00:00-07:00</published><updated>2020-05-23T00:00:00-07:00</updated><id>http://localhost:4000/posts/2020/05/transfer-learning-resource</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/transfer-learning-resource/">&lt;p&gt;Searching for transfer leanring code is time-consuming and requires efforts. I collected some the basic resources
 that is commonly used by transfer learning community. 
 &lt;!-- This expression: $\vec{F} = \frac{d \vec{p}}{dt} = m \frac{d \vec{v}}{dt} = m \vec{a}$ --&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;compute-distance-metrics&quot;&gt;Compute Distance Metrics&lt;/h2&gt;
 &lt;p&gt;Below is the link for various distance metric computation code.&lt;/p&gt;
+
+&lt;p&gt;| Distancd   |     Link    |
+|———-|:————-:|
+| A2 Distance |  &lt;a href=&quot;https://github.com/jindongwang/transferlearning/blob/master/code/distance/proxy_a_distance.py&quot;&gt;Python&lt;/a&gt; | 
+| MMD and MK-MMD | &lt;a href=&quot;https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_numpy_sklearn.py&quot;&gt;Python&lt;/a&gt;
+  &lt;a href=&quot;https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_pytorch.py&quot;&gt;PyTorch&lt;/a&gt;
+  &lt;a href=&quot;https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_matlab.m&quot;&gt;MatLab&lt;/a&gt;  |
+| Wasserstein distance (earch mover’s distance)| &lt;a href=&quot;https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html&quot;&gt;Scipy&lt;/a&gt;|&lt;/p&gt;
 &lt;table style=&quot;width:100%&quot;&gt;
   &lt;tr&gt;
     &lt;th&gt;Short&lt;/th&gt;

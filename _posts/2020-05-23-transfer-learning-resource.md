@@ -17,6 +17,14 @@ that is commonly used by transfer learning community.
 
 ## Compute Distance Metrics
 Below is the link for various distance metric computation code.
+
+| Distancd   |     Link    |
+|----------|:-------------:|
+| A2 Distance |  [Python](https://github.com/jindongwang/transferlearning/blob/master/code/distance/proxy_a_distance.py) | 
+| MMD and MK-MMD | [Python](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_numpy_sklearn.py)
+  [PyTorch](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_pytorch.py)
+  [MatLab](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_matlab.m)  |
+| Wasserstein distance (earch mover’s distance)| [Scipy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html)|
  <table style="width:100%">
   <tr>
     <th>Short</th>
