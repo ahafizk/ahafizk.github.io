@@ -53,5 +53,30 @@ Below is the link for various distance metric computation code.
   
 </table> 
 
+## Traditional Transfer Learning Source
+Here is the traditional transfer learning source code links are provided for reference start point.
 
+<table style="width:100%">
+  <tr>
+    <th>Description</th>
+    <th>Code Links</th>
+  </tr>
+
+  <tr>
+    <td></td>
+    
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>TCA (Transfer Component Anaysis, TNN-11)</td>
+    
+    <td><a href="https://github.com/jindongwang/transferlearning/tree/master/code/traditional/TCA" target="_blank">Python</a></td>
+  </tr>
+  <tr>
+  <td>JDA (Joint Distribution Adaptation, ICCV-13)</td>
+  <td>
+  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/traditional/JDA)" taget="_blank">Python, Matlab</a>  </td>
+  </tr>
+  <table>
 
