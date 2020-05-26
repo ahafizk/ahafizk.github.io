@@ -16,6 +16,7 @@ that is commonly used by transfer learning community.
 <!-- This expression: $\vec{F} = \frac{d \vec{p}}{dt} = m \frac{d \vec{v}}{dt} = m \vec{a}$ -->
 
 ## Compute Distance Metrics
+
 Below is the link for various distance metric computation code.
 
  <table style="width:100%">
@@ -47,7 +48,7 @@ Below is the link for various distance metric computation code.
   </tr>
   
    <tr>
-    <td>Wasserstein distance [earch mover’s distance]</td>
+    <td>Wasserstein distance [earch mover distance]</td>
     <td>
     <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html" target="_blank">Wasserstein<a>
     </td>
@@ -55,9 +56,17 @@ Below is the link for various distance metric computation code.
   
 </table> 
 
+
+
+
+
+
+
 ## Traditional Transfer Learning Source Code
 
 Here is the traditional transfer learning source code links are provided for reference start point.
+
+
 
 <table style="width:100%">
   <tr>
@@ -76,6 +85,7 @@ Here is the traditional transfer learning source code links are provided for ref
     
     <td><a href="https://github.com/jindongwang/transferlearning/tree/master/code/traditional/TCA" target="_blank">Python</a></td>
   </tr>
+  
   <tr>
   <td>JDA [Joint Distribution Adaptation, ICCV-13]</td>
   <td>
