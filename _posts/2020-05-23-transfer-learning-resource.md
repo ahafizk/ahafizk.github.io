@@ -50,7 +50,7 @@ Below is the link for various distance metric computation code.
    <tr>
     <td>Wasserstein distance [earch mover distance]</td>
     <td>
-    <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html" target="_blank">Wasserstein<a>
+    <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html" target="_blank">Wasserstein</a>
     </td>
   </tr>
   
