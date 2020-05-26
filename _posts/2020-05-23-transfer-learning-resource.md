@@ -11,7 +11,7 @@ tags:
   - Dataset
 ---
 
- Searching for transfer leanring code is time-consuming and requires efforts. I collected some the basic resources
+  Searching for transfer leanring code is time-consuming and requires efforts. I collected some the basic resources
 that is commonly used by transfer learning community. 
 <!-- This expression: $\vec{F} = \frac{d \vec{p}}{dt} = m \frac{d \vec{v}}{dt} = m \vec{a}$ -->
 
