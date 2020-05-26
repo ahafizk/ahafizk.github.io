@@ -15,6 +15,8 @@ tags:
 that is commonly used by transfer learning community. 
 <!-- This expression: $\vec{F} = \frac{d \vec{p}}{dt} = m \frac{d \vec{v}}{dt} = m \vec{a}$ -->
 
+## Compute Distance Metrics
+Below is the link for various distance metric computation code.
  <table style="width:100%">
   <tr>
     <th>Short</th>
@@ -43,6 +45,13 @@ that is commonly used by transfer learning community.
   [MatLab](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_matlab.m)
   </td>
   </tr>
+  
+   <tr>
+    <td>Wasserstein distance (earch mover’s distance)</td>
+    <td></td>
+    <td>[Scipy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wasserstein_distance.html)</td>
+  </tr>
+  
 </table> 
 
 
