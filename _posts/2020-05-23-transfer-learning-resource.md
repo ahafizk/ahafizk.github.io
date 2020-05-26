@@ -48,9 +48,9 @@ Below is the link for various distance metric computation code.
   <td>MMD and MK-MMD</td>
   <td></td>
   <td>
-  [Python](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_numpy_sklearn.py)
-  [PyTorch](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_pytorch.py)
-  [MatLab](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_matlab.m)
+  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_numpy_sklearn.py">Python</a>
+  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_pytorch.py" taget='_blank'>Pytorch</a>)
+  <a href="https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_matlab.m" target='_blank'>Matlab</a>)
   </td>
   </tr>
   
