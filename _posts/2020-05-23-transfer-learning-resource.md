@@ -78,5 +78,5 @@ Here is the traditional transfer learning source code links are provided for ref
   <td>
   <a href="https://github.com/jindongwang/transferlearning/blob/master/code/traditional/JDA)" taget="_blank">Python, Matlab</a>  </td>
   </tr>
-  <table>
+  </table>
 
