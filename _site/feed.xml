@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T09:29:34-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Md Abdullah Al Hafiz Khan</title><subtitle>personal description</subtitle><author><name>Hafiz Khan</name></author><entry><title type="html">Transfer Learning paper, codes and dataset</title><link href="http://localhost:4000/posts/2020/05/transfer-learning-resource/" rel="alternate" type="text/html" title="Transfer Learning paper, codes and dataset" /><published>2020-05-23T00:00:00-07:00</published><updated>2020-05-23T00:00:00-07:00</updated><id>http://localhost:4000/posts/2020/05/transfer-learning-resource</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/transfer-learning-resource/">&lt;p&gt;Searching for transfer leanring code is time-consuming and requires efforts. I collected some the basic resources
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T09:30:21-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Md Abdullah Al Hafiz Khan</title><subtitle>personal description</subtitle><author><name>Hafiz Khan</name></author><entry><title type="html">Transfer Learning paper, codes and dataset</title><link href="http://localhost:4000/posts/2020/05/transfer-learning-resource/" rel="alternate" type="text/html" title="Transfer Learning paper, codes and dataset" /><published>2020-05-23T00:00:00-07:00</published><updated>2020-05-23T00:00:00-07:00</updated><id>http://localhost:4000/posts/2020/05/transfer-learning-resource</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/transfer-learning-resource/">&lt;p&gt;Searching for transfer leanring code is time-consuming and requires efforts. I collected some the basic resources
 that is commonly used by transfer learning community. 
 &lt;!-- This expression: $\vec{F} = \frac{d \vec{p}}{dt} = m \frac{d \vec{v}}{dt} = m \vec{a}$ --&gt;&lt;/p&gt;
 
@@ -63,7 +63,7 @@ Here is the traditional transfer learning source code links are provided for ref
   &lt;tr&gt;
   &lt;td&gt;JDA (Joint Distribution Adaptation, ICCV-13)&lt;/td&gt;
   &lt;td&gt;
-  &lt;/td&gt;
+  &lt;a href=&quot;https://github.com/jindongwang/transferlearning/blob/master/code/traditional/JDA)&quot; taget=&quot;_blank&quot;&gt;Python, Matlab&lt;/a&gt;  &lt;/td&gt;
   &lt;/tr&gt;
   &lt;table&gt;
 
