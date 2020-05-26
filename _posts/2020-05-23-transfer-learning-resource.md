@@ -33,7 +33,7 @@ Below is the link for various distance metric computation code.
   <tr>
     <td>A2 Distance</td>
     
-    <td>[Python](https://github.com/jindongwang/transferlearning/blob/master/code/distance/proxy_a_distance.py)</td>
+    <td><a href="https://github.com/jindongwang/transferlearning/blob/master/code/distance/proxy_a_distance.py" target="_blank">python</a></td>
   </tr>
   
   <tr>
