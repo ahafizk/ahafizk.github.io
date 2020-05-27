@@ -19,7 +19,7 @@
 
 
 
-<title>Portfolio - Md Abdullah Al Hafiz Khan</title>
+<title>  Md Abdullah Al Hafiz Khan</title>
 
 
 
@@ -29,7 +29,7 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Md Abdullah Al Hafiz Khan">
-<meta property="og:title" content="Portfolio">
+<meta property="og:title" content="Md Abdullah Al Hafiz Khan">
 
 
   <link rel="canonical" href="http://localhost:4000/portfolio/">
@@ -149,13 +149,10 @@
             <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/talks/">Talks</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/teaching/">Teaching</a></li>
-          
-            
             <li class="masthead__menu-item"><a href="http://localhost:4000/portfolio/">Portfolio</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/activities/">Activities</a></li>
           
             
             <li class="masthead__menu-item"><a href="http://localhost:4000/year-archive/">Blog</a></li>
@@ -263,10 +260,11 @@
 
   <div class="archive">
     
-      <h1 class="page__title">Portfolio</h1>
+      <h1 class="page__title"></h1>
     
     
 <!-- <span style="color:red">Under Construction</span> -->
+<!-- 
 
 
   
@@ -289,7 +287,7 @@
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2020-05-26T09:47:37-07:00">May 26, 2020</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2020-05-27T13:30:09-07:00">May 27, 2020</time></p>
         
 
     
@@ -323,7 +321,7 @@
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2020-05-26T09:47:37-07:00">May 26, 2020</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2020-05-27T13:30:09-07:00">May 27, 2020</time></p>
         
 
     
@@ -337,7 +335,124 @@
 </div>
 
 
+ -->
+<style>
+table, tr, td {
+    border: none;
+}
 
+.div-table-col {
+  float: left; 
+  display: table-column;         
+  width: 50%;         
+  background-color: #ffff;  
+  border-spacing: 15px; 
+}
+
+.div-table {
+  display: table;         
+  width: auto;         
+  background-color: #ffff;         
+  border: 1px ;         
+  font-size: 13px;
+  border-spacing: 5px;
+}
+.div-table-row {
+  display: table-row;
+  width: auto;
+  clear: both;
+  border-spacing: 15px;
+}
+.div-table-col {
+  float: left; 
+  display: table-column;         
+  width: 50%;         
+  background-color: #ffff;  
+  border-spacing: 15px; 
+}
+
+.div-table-col2 {
+  float: left; 
+  display: table-column;         
+  width: 45%;         
+  background-color: #ffff;  
+  border-top: 15px; 
+}
+
+.div-header-col{
+width:100%; 
+font-size: 14px;
+background-color: #efef;
+}
+
+
+
+</style>
+
+<h2 id="projects">Projects</h2>
+
+<div class="div-table">
+         
+ <div class="div-table-row">
+                <div class="div-header-col"><b>1. Published Literature Search on Medical Care</b></div>
+                <div class="div-table-col">
+                
+                <figure>
+                <a href="/portfolio/1_covid19/">
+	<img src="/images/portfolio/covid19-architecture.png" width="100" height="100" class="center" />
+	<figcaption>Covid-19 System Architecture</figcaption>
+	</a>
+</figure>
+
+                </div>
+                <div class="div-table-col">
+                <br /><br />
+                This work is the response to the COVID-19 Open Research Dataset Challenge (CORD-19). The overall goal of the challenge is to facilitate knowledge extraction from the large CORD-19 dataset of over 51,000 scholarly articles, including over 40,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
+                </div>
+             </div>
+
+ 
+ 
+ 
+ 
+            <div class="div-table-row">
+            <div class="div-header-col"><b>2. HAR from Smartphone to smartwatch accelerometer data (vice versa)</b></div>
+                  <div class="div-table-col">
+                  
+                   <a href="/portfolio/2_hdcnn/">
+<center>
+<figure>
+	<img src="/images/portfolio/smartphone_to_smartwatch_transfer.png" style="width: 500px; height: 250px; align: middle;" />
+	<figcaption>Fig. Heterogeneous Deep Convolutional Neural Network (HDCNN) architecture</figcaption>
+</figure>
+</center>
+</a>
+                  </div>
+                <div class="div-table-col2">
+                <br /><br />
+                We investigate the problem of making human activity recognition (AR) scalable–i.e., allowing AR classifiers trained in one context to be readily adapted to a different contextual domain.
+ This is important because AR technologies can achieve high accuracy if the classifiers are trained for a specific individual or device, but show significant degradation when the same classifier is 
+ applied context. To allow such adaptation without requiring the onerous step of collecting large volumes of labeled training data in the target domain, we proposed a transductive transfer learning model that is specifically tuned to the properties of convolutional neural networks (CNNs). 
+ <!-- 
+
+ Our model, called HDCNN, assumes that the relative distribution of weights in the different CNN 
+ layers will remain invariant, as long as the set of activities being monitored does not change. 
+ Evaluation on realworld data shows that HDCNN is able to achieve high accuracy even without any 
+ labeled training data in the target domain, and offers even higher accuracy (significantly outperforming
+  competitive shallow and deep classifiers) when even a modest amount of labeled training data is available.
+  
+ -->
+                </div>
+                
+            </div>
+            <div class="div-table-row">
+                <div class="div-table-col"></div>
+                <div class="div-table-col"></div>
+                <div class="div-table-col"></div>
+           </div>
+
+
+      </div>
 
   </div>
 </div>
