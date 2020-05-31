@@ -1,9 +1,10 @@
 ---
-title: "Publications [(Google Scholar Profile)]({{https://scholar.google.com/citations?user=JFZc5jYAAAAJ&hl=en}})" 
+title: "" 
 permalink: /publications/
 author_profile: true
 ---
 
+# List of Publications [[Google Scholar Profile]](https://scholar.google.com/citations?user=JFZc5jYAAAAJ&hl=en){:target="_blank"}
 
 ## Conference Publications
 1. <b>[Improving Disease Named Entity Recognition for Clinical Trial Matching](http://ahafizk.github.io/publications/disorder)</b><br>
