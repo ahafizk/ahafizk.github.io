@@ -3,11 +3,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
----
-title: "" 
-permalink: /publications/
-author_profile: true
----
+
 
 # List of Publications [[Google Scholar Profile]](https://scholar.google.com/citations?user=JFZc5jYAAAAJ&hl=en){:target="_blank"}
 
