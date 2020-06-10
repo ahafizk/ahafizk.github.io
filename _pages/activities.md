@@ -37,6 +37,8 @@ author_profile: true
 ### Journals Reviewer
 
  1. <a href="https://www.journals.elsevier.com/neurocomputing" target="_blank">NeuroComputing Journal Elsevier (2019-2020) </a>
+ 1. <a href="https://www.journals.elsevier.com/international-journal-of-electrical-power-and-energy-systems" target="_blank">International Journal of Electrical Power and Energy Systems (2020)</a>
+ 1. <a href="https://www.journals.elsevier.com/journal-of-affective-disorders" target="_blank">The Journal of Affective Disorders (2019)</a>
  1. <a href="https://ieeeaccess.ieee.org/" target="_blank">IEEE Access (2019)</a>
  1. <a href="https://www.hindawi.com/journals/misy/" target="_blank">Mobile Information Systems (2019)</a>
  1. <a href="https://www.computer.org/csdl/journal/bd" target="_blank">IEEE Transactions on Big Data (TBD) (2018)</a>
