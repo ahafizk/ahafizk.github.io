@@ -11,13 +11,14 @@ redirect_from:
 Education
 ======
 * PhD in Information System &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; January, 2014 - May, 2019
-<br>University of Maryland, Baltimore County, Baltimore, Maryland, USA.&emsp;&emsp; CGPA: 3.79/4.0
+<br>University of Maryland, Baltimore County, Baltimore, Maryland, USA.&emsp;&emsp; 
   * Dissertation Title: **Cross-Domain Scalable Activity Recognition Models in Smart Environments**
 
 * Bachelor of Science, Computer Science and Engineering &emsp;  March, 2004 - March, 2009<br>
-Bangladesh University of Engineering & Technology, Dhaka, Bangladesh.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; CGPA: 3.50/4.0 
+Bangladesh University of Engineering & Technology, Dhaka, Bangladesh.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
   * Thesis Title: **Admission Control Algorithm for reliable web service**
 
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -29,7 +30,9 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+ -->
   
+<!-- 
 Skills
 ======
 * Skill 1
@@ -38,6 +41,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+ -->
 
 Publications
 ======
