@@ -15,6 +15,10 @@ author_profile: true
 
 
 ## Conference Publications
+1. <b> 
+[Activity Recognition in Wearables Using Adversarial Multi-source Domain Adaptation.](#)</b><br/>
+ Avijoy Chakma, Abu Zaher Md Faridee, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy. Accepted in IEEE CHASE'20.
+
 1. <b>[Improving Disease Named Entity Recognition for Clinical Trial Matching](http://ahafizk.github.io/publications/disorder)</b><br>
 <b>Md Abdullah Al Hafiz Khan</b>, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower, Joey Liu, Vivek Datla, Mladen Milosevic, Gabe Mankovich, Rob van Ommering, Nevenka Dimitrova. <i> BIBM workshop (AIBH) 2019.</i>
 
