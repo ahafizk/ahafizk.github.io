@@ -83,8 +83,8 @@ background-color: #efef;
                 <div  class="div-table-col">
                 
                 <figure>
-                <a href="/portfolio/1_covid19/">
-	<img src='/images/portfolio/covid19-architecture.png' width="100" height="100" class='center' >
+                <a href="/research/1_covid19/">
+	<img src='/images/research/covid19-architecture.png' width="100" height="100" class='center' >
 	<figcaption>Covid-19 System Architecture</figcaption>
 	</a>
 </figure>
@@ -107,7 +107,7 @@ background-color: #efef;
                    <a href="/portfolio/2_hdcnn/">
 <center>
 <figure>
-	<img src='/images/portfolio/smartphone_to_smartwatch_transfer.png' style='width: 500px; height: 250px; align: middle;'>
+	<img src='/images/research/smartphone_to_smartwatch_transfer.png' style='width: 500px; height: 250px; align: middle;'>
 	<figcaption>Fig. Heterogeneous Deep Convolutional Neural Network (HDCNN) architecture</figcaption>
 </figure>
 </center>
