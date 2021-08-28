@@ -10,8 +10,8 @@ redirect_from:
 
 ---
 permalink: /
-title: "Home"
-excerpt: "Home"
+title: "About Me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
