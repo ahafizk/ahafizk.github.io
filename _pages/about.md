@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
----
+<!-- ---
 permalink: /
 title: "About Me"
 excerpt: "About me"
@@ -16,7 +16,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 
 Dr. Hafiz Khan is an Assistant Professor in the Computer Science department at Kennesaw State University. He directs Ubiquitous Data Mining (UDM) at the Kennesaw State University. He was a scientist in the Artificial Intelligence Lab at Philips Research North America, Cambridge, MA from January 2019 to August 2021. 
 
