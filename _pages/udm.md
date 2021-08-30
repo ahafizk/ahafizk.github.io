@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Welcome to <b>U</b>biquitous <b>D</b>ata <b>M</b>ining Lab! Advances in mobile, wearable, and IoT technologies pose significant challenges in daily life. UDM lab excavates inherent patterns from the data to build applications to improve quality of life. More specifically, our focus is on designing, developing, and evaluating intelligent systems and applications with the help of artificial intelligence in practice. The research pursues the junction of pervasive and mobile sensing and computing-based data analytics, signal processing, human-computer interaction (HCI), and text analysis. 
+Welcome to <font color="blue"><b>U</b>biquitous <b>D</b>ata <b>M</b>ining Lab!</font> Advances in mobile, wearable, and IoT technologies pose significant challenges in daily life. UDM lab excavates inherent patterns from the data to build applications to improve quality of life. More specifically, our focus is on designing, developing, and evaluating intelligent systems and applications with the help of artificial intelligence in practice. The research pursues the junction of pervasive and mobile sensing and computing-based data analytics, signal processing, human-computer interaction (HCI), and text analysis. 
 
 Here is the overview of the key research focus of our lab, which aims to build applied machine learning systems for the betterment of human life.
 
