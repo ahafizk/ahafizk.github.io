@@ -9,13 +9,13 @@ Welcome to <font color="blue"><b>U</b>biquitous <b>D</b>ata <b>M</b>ining Lab!</
 
 Here is the overview of the key research focus of our lab, which aims to build applied machine learning systems for the betterment of human life.
 
-<font color="blue"><b>Understanding Context and Problem:</b></font> Fundamental understanding of people and the environment through smart devices and user interaction warrants specific research problems.  Environment and context are the determinants of people's involvement in the now and future. How we can understand and predict activities in a complex environment with limited information. 
+<b>Understanding Context and Problem:</b> Fundamental understanding of people and the environment through smart devices and user interaction warrants specific research problems.  Environment and context are the determinants of people's involvement in the now and future. How we can understand and predict activities in a complex environment with limited information. 
 
 
-<font color="blue"><b>Health and wellness Research and Design:</b></font>Health and wellness Research and Design: To improve the quality of life - human health and wellness, we envision integrating innovative sensing paradigm technology with the key healthcare settings. Our goal is to design, develop, and deliver smart systems adaptable to people of different needs and connect with clinicians and community members to assist people. 
+<b>Health and wellness Research and Design:</b> Health and wellness Research and Design: To improve the quality of life - human health and wellness, we envision integrating innovative sensing paradigm technology with the key healthcare settings. Our goal is to design, develop, and deliver smart systems adaptable to people of different needs and connect with clinicians and community members to assist people. 
 
 
-<font color="blue"><b>Long term Learning:</b></font>Any data-driven application depends on the user data. Sensed data changes over time. These changes may be due to environmental settings, adaptation, people preferences, etc. How can we adapt our system to such changes? Can we infer possible changes and learn these parameters. How can we engage and improve user interaction over time?
+<b>Long term Learning:</b> Any data-driven application depends on the user data. Sensed data changes over time. These changes may be due to environmental settings, adaptation, people preferences, etc. How can we adapt our system to such changes? Can we infer possible changes and learn these parameters. How can we engage and improve user interaction over time?
 
 
 Our research themes combine multiple disciplines - such as sensor technology, human-computer interaction, healthcare engineering, machine learning system design, and natural language understanding. In short, our lab engages in algorithm design, novel application building, prototype development in real-world settings.
