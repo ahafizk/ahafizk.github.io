@@ -8,6 +8,6 @@ author_profile: true
 
 ### Fall 2021 (KSU)
 
- - [CS 4742 - Natural Language Processing (Undergraduate)](http://ahafizk.github.io/teaching/cs4742.html))
+ - [CS 4742 - Natural Language Processing (Undergraduate)](http://ahafizk.github.io/teaching/2021-fall-teaching-cs4742.html))
  
- - [CS 7347 - Natural Language Processing (Graduate)](http://ahafizk.github.io/teaching/cs7347))
+ - [CS 7347 - Natural Language Processing (Graduate)](http://ahafizk.github.io/teaching/2021-fall-teaching-cs7347))

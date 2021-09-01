@@ -5,6 +5,6 @@ author_profile: true
 ---
 
 
-## CS-7347: Natural Language Processing (Fall 2021)
+## CS-7347: Natural Language Processing - Fall 2021
 
 ### Course Description:
