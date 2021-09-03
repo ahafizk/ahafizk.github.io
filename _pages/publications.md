@@ -7,12 +7,12 @@ author_profile: true
 
 # List of Publications [[Google Scholar Profile]](https://scholar.google.com/citations?user=JFZc5jYAAAAJ&hl=en){:target="_blank"}
 
-## Conference/Journal (Under Review)
+<!-- ## Conference/Journal (Under Review)
  
  1. ﻿<b>Cross-domain human activity recognition with limited annotation</b>. 
  <br/><b> Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. [In Pervasive Mobile Computing Journal.](https://www.journals.elsevier.com/pervasive-and-mobile-computing)
 
-
+ -->
 
 ## Conference Publications
 1. <b> 
