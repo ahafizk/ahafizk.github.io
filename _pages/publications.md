@@ -19,7 +19,7 @@ author_profile: true
 ### 2020
 1. <b> 
 [Activity Recognition in Wearables Using Adversarial Multi-source Domain Adaptation.](#)</b><br/>
- Avijoy Chakma, Abu Zaher Md Faridee, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy. Accepted in IEEE CHASE'20.
+ Avijoy Chakma, Abu Zaher Md Faridee, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy. In IEEE CHASE'20.
 
 ### 2019
 
