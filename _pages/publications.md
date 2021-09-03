@@ -15,9 +15,13 @@ author_profile: true
  -->
 
 ## Conference Publications
+
+### 2020
 1. <b> 
 [Activity Recognition in Wearables Using Adversarial Multi-source Domain Adaptation.](#)</b><br/>
  Avijoy Chakma, Abu Zaher Md Faridee, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy. Accepted in IEEE CHASE'20.
+
+### 2019
 
 1. <b>[Improving Disease Named Entity Recognition for Clinical Trial Matching](http://ahafizk.github.io/publications/disorder)</b><br>
 <b>Md Abdullah Al Hafiz Khan</b>, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower, Joey Liu, Vivek Datla, Mladen Milosevic, Gabe Mankovich, Rob van Ommering, Nevenka Dimitrova. <i> BIBM workshop (AIBH) 2019.</i>
@@ -29,6 +33,9 @@ Rahul Pandey, Md Shamsuzzaman, Sadid A. Hasan, Mohammad S Sorower, <b>Md Abdulla
 Abu Zaher Md Faridee, <b>Md Abdullah Al Hafiz Khan</b>, Nilavra Pathak, Nirmalya Roy.
 <i>16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services, MobiQuitous 2019. Houston, United States.</i>
 
+
+### 2018
+
 1. <b>[UnTran: Recognizing Unseen Activities with Unlabeled data using Transfer Learning](https://ahafizk.github.io/publications/iotdi-2018)</b> <br>
  <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. <i>In ACM/IEEE International Conference on Internet-of-Things Design and Implementation (IoTDI) (IoTDI 2018). Orlando, Florida, USA.</i>
 
@@ -37,6 +44,9 @@ Abu Zaher Md Faridee, <b>Md Abdullah Al Hafiz Khan</b>, Nilavra Pathak, Nirmalya
 
 1. <b>[Scaling Human Activity Recognition via Deep Learning-based Domain Adaptation](http://ahafizk.github.io/publications/percom-2018)</b><br>
 <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy, Archan Misra. <i>In IEEE international conference on Pervasive Computing and Communication (PerCom), 2018. Athens, Greece.</i>
+
+
+### 2017
 
 1. <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy, H M Sajjad Hossain. <b>[COAR: Collaborative and Opportunistic Human Activity Recognition](http://ahafizk.github.io/publications/dcoss-2017)</b> <i>In Proceeding of the 13th International Conference on Distributed Computing in Sensor Systems (DCOSS), 2017. Ottawa, Canada. [PDF]</i>
 
@@ -50,11 +60,15 @@ H M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. <i>In Procee
 Joseph Taylor, H M Sajjad Hossain, Mohammad Arif Ul Alam, <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy, Elizabeth Galik, and Aryya Gangopadhyay.<i> In Proceedings of the IEEE International Conference on Pervasive Computing and Communications Demonstrations (PerCom), March 2017. Kona, Big Island of Hawaii, USA.</i>
 
 
+### 2016
+
 1.  <b>[RAM: Radar-based Activity Monitor](http://ahafizk.github.io/publications/ram)</b><br> 
 <b>Md Abdullah Al Hafiz Khan</b>, Ruthvik Kukkapalli, Piyush Waradpande, Sekar Kulandaivel, Nilanjan Banerjee, Nirmalya Roy, Ryan Robucci. <i>In Proceeding of InfoCom, San francisco, California, April, 2016.</i>
     
 1.  <b>[Active Learning Enabled Activity Recognition](http://ahafizk.github.io/publications/activear)</b><br>H M Sajjd Hossain, Nirmalya Roy, <b>Md Abdullah Al Hafiz Khan</b>. <i> In Proceeding of PerCom, Sydney, Australia, March, 2016. </i>
 
+
+### 2015
 
 1.  <b>[Infrastructure-less Occupancy Detection and Semantic Localization in Smart Environments](http://ahafizk.github.io/publications/infrastructure)</b><br/>
  <b>Md Abdullah Al Hafiz Khan</b>, H M Sajjad Hossain, Nirmalya Roy. <i>In Proceeding of 12th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (Mobiquitous' 2015). Coimbra, Portugal. July, 2015.</i>
@@ -80,12 +94,15 @@ Nilavra Pathak, <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. <i>In PerCom 201
 
 
 ## Journal Publications 
-	
+
+### 2020	
 1. <b>[An Ontology-driven Treatment Article Retrieval Systemfor Precision Oncology.](http://ahafizk.github.io/publications/precision-oncology)</b><br> 
 Zheng Chen, Sadid A. Hasan, Joey Liu, Vivek Datla, Md Shamsuzzaman, <b>Md Abdullah Al Hafiz Khan</b>,Mohammad S Sorower, Gabe Mankovich, Rob van Ommering, Nevenka Dimitrova. 
 <i>In ArXiv, abs/2002.05653 (CoRR-2020), February 2020.</i>
 
-	
+
+### 2018
+
 1. <b>[Wearable Sensor-based Location-specific Occupancy Detection in Smart Environments.](href='https://www.hindawi.com/journals/misy/)</b><br> 
 <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy, H M Sajjad Hossain. 
 <i>Mobile Information Systems (MIS 2018) Journal. January, 2018.</i>
@@ -94,14 +111,21 @@ Zheng Chen, Sadid A. Hasan, Joey Liu, Vivek Datla, Md Shamsuzzaman, <b>Md Abdull
  M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. 
 <i>Proceedings of ACM Interactive Mobile, Wearable, & Ubiquitous Technology. (IMWUT) (June 2018)</i>
 
+
+### 2017
+
 1. <b>[An Active Sleep Monitoring Framework Using Wearables](http://ahafizk.github.io/publications/activesleep)</b> <br>
 H M Sajjad Hossain, Sreenivasan R. Ramamurthy, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.<i>ACM Transactions on Interactive Intelligent Systems (TIIS), 2017.</i>
 
+
+### 2016
 
 1. <b>[Active Learning Enabled Activity Recognition](http://ahafizk.github.io/publications/pmc)</b>
 <br>
 H M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.
 <i>Pervasive and Mobile Computing (PMC) Journal, Elsevier 2016 </i>
+
+### 2015
 
 1. <b>[Infrastructure-less Occupancy Detection and Semantic Localization in Smart Environments](http://ahafizk.github.io/publications/infrastructure)</b><br>
 <b>Md Abdullah Al Hafiz Khan</b>, H M Sajjad Hossain, Nirmalya Roy. <i>EAI Endorsed Transactions on Context-aware Systems and Applications 15(5): e3, 2015.</i>
