@@ -21,4 +21,6 @@ Here is the overview of the key research focus of our lab, which aims to build a
 Our research themes combine multiple disciplines - such as sensor technology, human-computer interaction, healthcare engineering, machine learning system design, and natural language understanding. In short, our lab engages in algorithm design, novel application building, prototype development in real-world settings.
 
 <hr>
+<font color='blue'>I am currently looking for motivated students to join our <a href="https://ahafizk.github.io/udm/">UDM lab</a>.</font> If you are interested, please drop me an email.
+<hr>
 

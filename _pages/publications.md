@@ -132,7 +132,15 @@ H M Sajjad Hossain, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy.
 
 
 
+## Patents
 
+### 2020
+1. <b>[Custom Three-dimensional (3D) print mode generation.](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020145982)</b> 
+Sunil KOTHARI, Kelly RONK, Anthony POWELL, Jun ZENG, <b>Sunil KOTHARI, Kelly RONK, Anthony POWELL, Jun ZENG, <b>Md Abdullah Al Hafiz KHAN</b>, Tod HEILES, Goffril OBEGI <b>Patent number: WO/2020/145982</b>, Publication date: 2020/7/30, Patent office: WO, Application number: PCT/US2019/013081.
+
+1. <b>[DETECTING THREE-DIMENSIONAL (3D) PART LIFT AND DRAG.](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020153951)</b> Sunil KOTHARI, Tod HEILES, Luke BOCKMAN, Md Abdullah Al Hafiz KHAN, Gary J. DISPOTO. <b>Patent number: WO/2020/153951</b>, Application number: PCT/US2019/014723, Publication date: 2020/7/30.
+
+1. <b>[DETECTING THREE-DIMENSIONAL (3D) PART DRAG.](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020153949)</b> Todd GOYEN Sunil KOTHARI, Tod HEILES, Luke BOCKMAN, Gary J. DISPOTO, Md Abdullah Al Hafiz KHAN, <b>Patent number: WO/2020/153949</b>, Application number: PCT/US2019/014712, Publication date: 2020/7/30.
 <!-- {% if author.googlescholar %}
   Publication List <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
