@@ -16,10 +16,34 @@ author_profile: true
 
 ## Conference Publications
 
-### 2020
+### 2022
+1. <b>Definition modeling: literature review and dataset analysis.</b><br/>
+Noah Gardner, Hafiz Khan, Chih-Cheng Hung.<br/>
+<b>Submitted:</b> IEEE Applied and Computing Journals. March 26, 2022.
+
+1. <b>Quantum Machine Learning for Software Supply Chain Attacks: How Far Can We Go?</b><br/>
+Mohammad Masum, Mohammad Nazim, Md Jobair Hossain Faruk, Hossain Shahriar, Maria Valero, Md Abdullah Hafiz Khan, Gias Uddin, Shabir Barzanjeh, Erhan Saglamyurek, Akond Rahman and Sheikh Ahamed.<br/>
+<b>Submitted:</b> IEEE COMPSAC. March 23, 2022.
+
+1. <b>Cross-Domain Unseen Activity Recognition Using Transfer Learning.</b><br/>
+Md Abdullah Al Hafiz Khan and Nirmalya Roy.<br/>
+<b>Submitted:</b> IEEE SCH: Smart & Connected Health (COMPSAC), January 17, 2022.<br/>
+
+
+
+### 2021
 1. <b> 
 [Activity Recognition in Wearables Using Adversarial Multi-source Domain Adaptation.](#)</b><br/>
  Avijoy Chakma, Abu Zaher Md Faridee, <b>Md Abdullah Al Hafiz Khan</b> and Nirmalya Roy. In IEEE CHASE'20.
+
+ 1. <b>
+[Bayesian Hyperparameter Optimization for Deep Neural Network-Based Network Intrusion Detection](#)</b><br/>.
+Mohammad Masum, Hossain Shahriar, Hisham Haddad, Md Jobair Hossain Faruk, Maria Valero, Md Abdullah Khan, Mohammad A Rahman, Muhaiminul I Adnan, Alfredo Cuzzocrea, Fan Wu. In IEEE International Conference on Big Data (Big Data) 
+
+1. <b>
+	[Malware Detection and Prevention using Artificial Intelligence Techniques](#)</b><br/>. 
+	Md Jobair Hossain Faruk, Hossain Shahriar, Maria Valero, Farhat Lamia Barsha, Shahriar Sobhan, Md Abdullah Khan, Michael Whitman, Alfredo Cuzzocrea, Dan Lo, Akond Rahman, Fan Wu. In IEEE International Conference on Big Data (Big Data)
+
 
 ### 2019
 
