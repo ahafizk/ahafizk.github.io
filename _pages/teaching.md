@@ -11,7 +11,7 @@ author_profile: true
 - [CS 4277 - Deep Learning (Undergraduate)](#)
 
 ### Summer 
-- [CS 7375 - Artificial Intelligence (Graduate)]
+- [CS 7375 - Artificial Intelligence (Graduate)](#)
 
 ### Fall
 
