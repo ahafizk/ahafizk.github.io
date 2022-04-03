@@ -19,15 +19,15 @@ author_profile: true
 ### 2022
 1. <b>Definition modeling: literature review and dataset analysis.</b><br/>
 Noah Gardner, Hafiz Khan, Chih-Cheng Hung.<br/>
-<b>Submitted:</b> IEEE Applied and Computing Journals. March 26, 2022.
+IEEE Applied and Computing Journals. March 29, 2022. <b>Accepted</b><br/>
+
+1. <b>Cross-Domain Unseen Activity Recognition Using Transfer Learning.</b><br/>
+Md Abdullah Al Hafiz Khan and Nirmalya Roy.<br/>
+IEEE SCH: Smart & Connected Health (COMPSAC), April 1, 2022.<b>Accepted</b> <br/>
 
 1. <b>Quantum Machine Learning for Software Supply Chain Attacks: How Far Can We Go?</b><br/>
 Mohammad Masum, Mohammad Nazim, Md Jobair Hossain Faruk, Hossain Shahriar, Maria Valero, Md Abdullah Hafiz Khan, Gias Uddin, Shabir Barzanjeh, Erhan Saglamyurek, Akond Rahman and Sheikh Ahamed.<br/>
 <b>Submitted:</b> IEEE COMPSAC. March 23, 2022.
-
-1. <b>Cross-Domain Unseen Activity Recognition Using Transfer Learning.</b><br/>
-Md Abdullah Al Hafiz Khan and Nirmalya Roy.<br/>
-<b>Submitted:</b> IEEE SCH: Smart & Connected Health (COMPSAC), January 17, 2022.<br/>
 
 
 
