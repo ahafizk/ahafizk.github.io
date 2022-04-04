@@ -27,7 +27,7 @@ IEEE SCH: Smart & Connected Health (COMPSAC), April 1, 2022.<b>Accepted</b> <br/
 
 1. <b>Quantum Machine Learning for Software Supply Chain Attacks: How Far Can We Go?</b><br/>
 Mohammad Masum, Mohammad Nazim, Md Jobair Hossain Faruk, Hossain Shahriar, Maria Valero, Md Abdullah Hafiz Khan, Gias Uddin, Shabir Barzanjeh, Erhan Saglamyurek, Akond Rahman and Sheikh Ahamed.<br/>
-<b>Submitted:</b> IEEE COMPSAC. March 23, 2022.
+IEEE COMPSAC. March 23, 2022. <b>Accepted.</b> 
 
 
 
