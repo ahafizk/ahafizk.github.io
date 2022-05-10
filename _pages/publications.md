@@ -26,12 +26,12 @@ Dinesh Attota, Durga Nagarjuna Tadikonda, Shruthi Pethe and Md Abdullah Al Hafiz
 IEEE Compsac, Workshop: MediComp. 2022. <b> Submitted.</b><br/>
 
 1. <b>Mental workload classification from non-invasive fNIRs signals through deep convolutional neural network.</b><br/>
-<b>Vamsi Krishna Dhulipalla</b>, Md Abdullah Al Hafiz Khan and Hossain Shahriar.<br/>
+Vamsi Krishna Dhulipalla, Md Abdullah Al Hafiz Khan and Hossain Shahriar.<br/>
 IEEE Compsac, Workshop: MediComp. 2022. <b> Submitted.</b><br/>
 
 
 1. <b>MRehab: Mutlimodal data acquisition and modeling framework for assessing stroke and cardiac rehabilitation exercises.</b><br/>
-<b>Md Abdullah Al Hafiz Khan<b/> and Hossain Shahriar.<br/>
+Md Abdullah Al Hafiz Khan and Hossain Shahriar.<br/>
 IEEE Compsac, Fast Abstract. <b> Accepted.</b><br/>
 
 1. <b>Reinforcement Learning Agent Path Planning with Expert Demonstration.</b><br/>
