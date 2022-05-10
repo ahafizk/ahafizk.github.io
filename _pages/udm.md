@@ -24,9 +24,9 @@ Our research themes combine multiple disciplines - such as sensor technology, hu
 <font color='blue'>I am currently looking for motivated students to join our <a href="https://ahafizk.github.io/udm/">UDM lab</a>.</font> If you are interested, please drop me an email.
 <hr>
 
-### Graduate and Undergraduate Students:
+## Graduate and Undergraduate Students:
 
-#### Current Students:
+### Current Students:
 1. Naga Sai Krishna Adatrao (Grad),
 1. Manohar Murikipudi (Grad)
 1. Ryann William (Grad)
@@ -34,7 +34,7 @@ Our research themes combine multiple disciplines - such as sensor technology, hu
 1. Megan Vo (Undergad)
 
 
-#### Past Students:
+### Past Students:
 1. Vamsi Krishna Dhulipalla (Grad)
 1. Akula Sai Shashank (Grad)
 1. Sreekanth Gopi (Grad)
