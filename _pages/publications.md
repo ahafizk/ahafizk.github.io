@@ -63,7 +63,7 @@ IEEE COMPSAC. April 03, 2022. <b> Accepted.</b>
 Mohammad Masum, Hossain Shahriar, Hisham Haddad, Md Jobair Hossain Faruk, Maria Valero, Md Abdullah Khan, Mohammad A Rahman, Muhaiminul I Adnan, Alfredo Cuzzocrea, Fan Wu. In IEEE International Conference on Big Data (Big Data) 
 
 1. <b>
-	[Malware Detection and Prevention using Artificial Intelligence Techniques](#)</b><br/>. 
+	[Malware Detection and Prevention using Artificial Intelligence Techniques.](#)</b><br/> 
 	Md Jobair Hossain Faruk, Hossain Shahriar, Maria Valero, Farhat Lamia Barsha, Shahriar Sobhan, Md Abdullah Khan, Michael Whitman, Alfredo Cuzzocrea, Dan Lo, Akond Rahman, Fan Wu. In IEEE International Conference on Big Data (Big Data)
 
 
