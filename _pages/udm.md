@@ -35,9 +35,10 @@ Our research themes combine multiple disciplines - such as sensor technology, hu
 
 
 #### Past Students:
-1. Vamsi Krishna Dhulipalla
-1. Akula Sai Shashank
-1. Sreekanth Gopi
+1. Vamsi Krishna Dhulipalla (Grad)
+1. Akula Sai Shashank (Grad)
+1. Sreekanth Gopi (Grad)
+1. Donovan McGregor (Undergad)
 
 
 
