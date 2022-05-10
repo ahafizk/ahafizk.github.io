@@ -19,7 +19,7 @@ author_profile: true
 ### 2022
 1. <b>Systematic Analysis of Deep Learning Model for Vulnerable Code Detection.</b><br/>
 Mohammad Nazim, Hossain Shahriar, Md Abdullah Hafiz Khan, Mohammad Masum, Md Jobair Hossain Faruk, Atef Mohamed and Nazmus Sakib.<br/>
-IEEE Compsac, Workshop: STPSA, 2022. <b> Submitted.</b><br/>
+IEEE Compsac, Workshop: STPSA, 2022. <b> Accepted.</b><br/>
 
 1. <b>An Ensembled Method For Diabetic Retinopathy Classification using Transfer Learning.</b><br/>
 Dinesh Attota, Durga Nagarjuna Tadikonda, Shruthi Pethe and Md Abdullah Al Hafiz Khan.<br/>
