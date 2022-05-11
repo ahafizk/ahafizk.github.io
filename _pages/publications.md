@@ -23,11 +23,11 @@ IEEE Compsac, Workshop: STPSA, 2022. <b> Accepted.</b><br/>
 
 1. <b>An Ensembled Method For Diabetic Retinopathy Classification using Transfer Learning.</b><br/>
 Dinesh Attota, Durga Nagarjuna Tadikonda, Shruthi Pethe and Md Abdullah Al Hafiz Khan.<br/>
-IEEE Compsac, Workshop: MediComp. 2022. <b> Submitted.</b><br/>
+IEEE Compsac, Workshop: MediComp. 2022. <b> Accepted.</b><br/>
 
 1. <b>Mental workload classification from non-invasive fNIRs signals through deep convolutional neural network.</b><br/>
 Vamsi Krishna Dhulipalla, Md Abdullah Al Hafiz Khan and Hossain Shahriar.<br/>
-IEEE Compsac, Workshop: MediComp. 2022. <b> Submitted.</b><br/>
+IEEE Compsac, Workshop: MediComp. 2022. <b> Accepted.</b><br/>
 
 
 1. <b>MRehab: Mutlimodal data acquisition and modeling framework for assessing stroke and cardiac rehabilitation exercises.</b><br/>
