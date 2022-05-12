@@ -17,38 +17,38 @@ author_profile: true
 ## Conference Publications
 
 ### 2022
-1. <b>Systematic Analysis of Deep Learning Model for Vulnerable Code Detection.</b><br/>
+1. <b>[Systematic Analysis of Deep Learning Model for Vulnerable Code Detection.](#)</b><br/>
 Mohammad Nazim, Hossain Shahriar, Md Abdullah Hafiz Khan, Mohammad Masum, Md Jobair Hossain Faruk, Atef Mohamed and Nazmus Sakib.<br/>
 IEEE Compsac, Workshop: STPSA, 2022. <b> Accepted.</b><br/>
 
-1. <b>An Ensembled Method For Diabetic Retinopathy Classification using Transfer Learning.</b><br/>
+1. <b>[An Ensembled Method For Diabetic Retinopathy Classification using Transfer Learning.](#)</b><br/>
 Dinesh Attota, Durga Nagarjuna Tadikonda, Shruthi Pethe and Md Abdullah Al Hafiz Khan.<br/>
 IEEE Compsac, Workshop: MediComp. 2022. <b> Accepted.</b><br/>
 
-1. <b>Mental workload classification from non-invasive fNIRs signals through deep convolutional neural network.</b><br/>
+1. <b>[Mental workload classification from non-invasive fNIRs signals through deep convolutional neural network.](#)</b><br/>
 Vamsi Krishna Dhulipalla, Md Abdullah Al Hafiz Khan and Hossain Shahriar.<br/>
 IEEE Compsac, Workshop: MediComp. 2022. <b> Accepted.</b><br/>
 
 
-1. <b>MRehab: Mutlimodal data acquisition and modeling framework for assessing stroke and cardiac rehabilitation exercises.</b><br/>
+1. <b>[MRehab: Mutlimodal data acquisition and modeling framework for assessing stroke and cardiac rehabilitation exercises.](#)</b><br/>
 Md Abdullah Al Hafiz Khan and Hossain Shahriar.<br/>
 IEEE Compsac, Fast Abstract, 2022.<b> Accepted.</b><br/>
 
 
-1. <b>Reinforcement Learning Agent Path Planning with Expert Demonstration.</b><br/>
+1. <b>[Reinforcement Learning Agent Path Planning with Expert Demonstration.](#)</b><br/>
 Alan Norkham, Mikulas Chalupa, Noah Gardner and Md Abdullah Al Hafiz Khan.<br/>
 IEEE Compsac, Student Research Symposium, 2022. <b> Accepted.</b><br/>
 
 
-1. <b>(Definition modeling: literature review and dataset analysis.)[https://www.aimspress.com/article/doi/10.3934/aci.2022005]</b><br/>
+1. <b>[Definition modeling: literature review and dataset analysis.](https://www.aimspress.com/article/doi/10.3934/aci.2022005)</b><br/>
 Noah Gardner, Hafiz Khan, Chih-Cheng Hung.<br/>
 IEEE Applied and Computing Journals. March 29, 2022. <b> Published.</b><br/>
 
-1. <b>Cross-Domain Unseen Activity Recognition Using Transfer Learning.</b><br/>
+1. <b>[Cross-Domain Unseen Activity Recognition Using Transfer Learning.](#)</b><br/>
 Md Abdullah Al Hafiz Khan and Nirmalya Roy.<br/>
 IEEE SCH: Smart & Connected Health (COMPSAC), April 1, 2022.<b> Accepted.</b> <br/>
 
-1. <b>(Quantum Machine Learning for Software Supply Chain Attacks: How Far Can We Go?)[https://arxiv.org/abs/2204.02784]</b><br/>
+1. <b>[Quantum Machine Learning for Software Supply Chain Attacks: How Far Can We Go?](https://arxiv.org/abs/2204.02784)</b><br/>
 Mohammad Masum, Mohammad Nazim, Md Jobair Hossain Faruk, Hossain Shahriar, Maria Valero, Md Abdullah Hafiz Khan, Gias Uddin, Shabir Barzanjeh, Erhan Saglamyurek, Akond Rahman and Sheikh Ahamed.<br/>
 IEEE COMPSAC. April 03, 2022. <b> Accepted.</b> 
 
