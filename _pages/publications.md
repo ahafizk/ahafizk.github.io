@@ -40,9 +40,9 @@ Alan Norkham, Mikulas Chalupa, Noah Gardner and Md Abdullah Al Hafiz Khan.<br/>
 IEEE Compsac, Student Research Symposium, 2022. <b> Accepted.</b><br/>
 
 
-1. <b>Definition modeling: literature review and dataset analysis.</b><br/>
+1. <b>(Definition modeling: literature review and dataset analysis.)[https://www.aimspress.com/article/doi/10.3934/aci.2022005]</b><br/>
 Noah Gardner, Hafiz Khan, Chih-Cheng Hung.<br/>
-IEEE Applied and Computing Journals. March 29, 2022. <b> Accepted.</b><br/>
+IEEE Applied and Computing Journals. March 29, 2022. <b> Published.</b><br/>
 
 1. <b>Cross-Domain Unseen Activity Recognition Using Transfer Learning.</b><br/>
 Md Abdullah Al Hafiz Khan and Nirmalya Roy.<br/>
