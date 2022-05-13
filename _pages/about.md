@@ -27,4 +27,20 @@ My research interest spans a wide range of topics in machine learning, deep lear
 1. Our paper, "Reinforcement Learning Agent Path Planning with Expert Demonstration." Accepted in Compsac Student Research Symposium. 
 1. Our paper, "Mental workload classification from non-invasive fNIRs signals through deep convolutional neural network.", IEEE Compsac workshop (Medicomp)
 
+<div id="marquee-cont">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50px" style="background:#1174A8;">
+        <button id="ticker-title">Posts:</button>
+      </td>
+      <td id="marquee">
+        <marquee onmouseover="this.stop();" onmouseout="this.start();" id='scroll'>
+        temp <img src="https://www.naishare.com/images/favicon.png" width="25px" />
+        </marquee>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
