@@ -31,10 +31,10 @@ My research interest spans a wide range of topics in machine learning, deep lear
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50px" style="background:#1174A8;">
-        <button id="ticker-title">Posts:</button>
+        <button id="ticker-title">Recent News:</button>
       </td>
       <td id="marquee">
-        <marquee onmouseover="this.stop();" onmouseout="this.start();" id='scroll'>
+        <marquee onmouseover="this.stop();" onmouseout="this.start();" id='scroll-news'>
         temp <img src="https://www.naishare.com/images/favicon.png" width="25px" />
         </marquee>
       </td>
