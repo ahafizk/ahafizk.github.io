@@ -23,8 +23,8 @@ My research interest spans a wide range of topics in machine learning, deep lear
 <hr/>
 
 ## Recent News
-<font color='blue'>
+
 1. Our paper, "Reinforcement Learning Agent Path Planning with Expert Demonstration." Accepted in Compsac Student Research Symposium. 
 1. Our paper, "Mental workload classification from non-invasive fNIRs signals through deep convolutional neural network.", IEEE Compsac workshop (Medicomp)
 
-</font>
+
