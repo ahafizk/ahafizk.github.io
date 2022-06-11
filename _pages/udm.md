@@ -31,7 +31,7 @@ Our research themes combine multiple disciplines - such as sensor technology, hu
 1. Manohar Murikipudi (Grad)
 1. Ryann William (Grad)
 1. Cesar Lucena Trujillo (Undergad) 
-1. Megan Vo (Undergad)
+
 
 
 ### Past Students:
