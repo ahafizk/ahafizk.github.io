@@ -27,24 +27,25 @@ Our research themes combine multiple disciplines - such as sensor technology, hu
 ## PhD, Graduate and Undergraduate Students:
 
 ### PhD Students
+
 1. Abm. Adnan Azmee
 1. Martin Brown
 
 ### Current Students:
+
 1. Manohar Murikipudi (Grad)
-1. Vamsi Krishna Dhulipalla (Grad)
 1. Ryann William (Grad)
-1. Cesar Lucena Trujillo (Undergad) 
-1. Megan Vo (Undergrad)
 
 
 ### Past Students:
 
+1. Vamsi Krishna Dhulipalla (Grad)
 1. Naga Sai Krishna Adatrao (Grad),
 1. Akula Sai Shashank (Grad)
 1. Sreekanth Gopi (Grad)
 1. Donovan McGregor (Undergad)
-
+1. Cesar Lucena Trujillo (Undergad) 
+1. Megan Vo (Undergrad)
 
 
 
