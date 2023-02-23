@@ -23,7 +23,7 @@ My research interest spans a wide range of topics in machine learning, deep lear
 <font color='blue'>I am currently looking for motivated students to join our <a href="https://ahafizk.github.io/udm/">UDM lab</a>.</font> If you are interested, please drop me an email.
 <hr/>
 
-## Recent News
+<!-- ## Recent News
 
 1. Our paper, "Reinforcement Learning Agent Path Planning with Expert Demonstration." Accepted in Compsac Student Research Symposium. 
 1. Our paper, "Mental workload classification from non-invasive fNIRs signals through deep convolutional neural network.", IEEE Compsac workshop (Medicomp)
@@ -42,6 +42,6 @@ My research interest spans a wide range of topics in machine learning, deep lear
     </tr>
   </table>
 </div>
-
+ -->
 
 
