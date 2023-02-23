@@ -20,7 +20,7 @@ I obtained Ph.D. in Information Systems from the University of Maryland, Baltimo
 My research interest spans a wide range of topics in machine learning, deep learning, transfer learning, and their applications in Mobile, Pervasive Computing, Wearable Computing, Healthcare Sensing and Analytics, and Natural Language processing. 
 
 <hr/>
-<font color='blue'>I am currently looking for motivated students to join our <a href="https://ahafizk.github.io/udm/">UDM lab</a>.</font> If you are interested, please drop me an email.
+<font color='blue'>We are always looking for motivated students to join our <a href="https://ahafizk.github.io/udm/">UDM lab</a>.</font> If you are interested, please drop me an email.
 <hr/>
 
 <!-- ## Recent News
