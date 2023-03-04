@@ -16,6 +16,22 @@ author_profile: true
 
 ## Conference Publications
 
+### 2023
+
+1. <b>[Detecting Motor Imagery Movement from EEG Signal](#)</b><br/>
+Abm Adnan Azmee, Manohar Murikipudi and Md Abdullah Al Hafiz Khan<br/>
+<b>Accepted</b> in ACM Southeast (ACMSE) conference, 2023.<br/>
+
+1. <b>[Comparison of Long Short-Term Memory Networks and Temporal Convolutional Networks for Sentiment Analysis.](#)</b><br/>
+Meghan Brock, Samuel Hekman, Md Abdullah Al Hafiz Khan and Xinyue Zhang<br/>
+<b>Accepted</b> in ACM Southeast (ACMSE) conference, 2023.<br/>
+
+1. <b>[Evaluation of Query-Based Membership Inference Attack on the Medical Data](#)</b><br/>
+Xinyue Zhang, Lakshmi Prasanna Pedarla, Liang Zhao and Hafiz Khan<br/>
+<b>Accepted</b> in ACM Southeast (ACMSE) conference, 2023.<br/>
+
+
+
 ### 2022
 1. <b>[Systematic Analysis of Deep Learning Model for Vulnerable Code Detection.](https://ieeexplore.ieee.org/document/9842566)</b><br/>
 Mohammad Nazim, Hossain Shahriar, Md Abdullah Hafiz Khan, Mohammad Masum, Md Jobair Hossain Faruk, Atef Mohamed and Nazmus Sakib.<br/>
