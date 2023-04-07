@@ -18,6 +18,9 @@ author_profile: true
 
 ### 2023
 
+1. <b>[Unsupervised spatio-temporal anomalous thermal behavior monitoring of inside-built environments.](#)</b><br/>
+Naima Khan, Md Abdullah Al Hafiz Khan and Nirmalya Roy.<br/> <b> Accepted in IEEE DCOSS. Acceptance rate (23.25%).
+
 1. <b>[Detecting Motor Imagery Movement from EEG Signal](#)</b><br/>
 Abm Adnan Azmee, Manohar Murikipudi and Md Abdullah Al Hafiz Khan<br/>
 <b>Accepted</b> in ACM Southeast (ACMSE) conference, 2023.<br/>
