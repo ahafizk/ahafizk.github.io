@@ -17,9 +17,11 @@ author_profile: true
 ## Conference Publications
 
 ### 2023
+1. <b>[Post-stroke Exercise Assessment using Hybrid Quantum Neural Network.](#)</b><br/>
+Md Abdullah Al Hafiz Khan, Manohar Murikipudi  and Abm Adnan Azmee.<br/> <b> Accepted in IEEE Compsac 2023. <br/> Acceptance rate  <b>< 27%</b>.
 
 1. <b>[Unsupervised spatio-temporal anomalous thermal behavior monitoring of inside-built environments.](#)</b><br/>
-Naima Khan, Md Abdullah Al Hafiz Khan and Nirmalya Roy.<br/> <b> Accepted in IEEE DCOSS 2023. Acceptance rate (23.25%).
+Naima Khan, Md Abdullah Al Hafiz Khan and Nirmalya Roy.<br/> <b> Accepted in IEEE DCOSS 2023. <br/>Acceptance rate 23.25%.
 
 1. <b>[Detecting Motor Imagery Movement from EEG Signal](#)</b><br/>
 Abm Adnan Azmee, Manohar Murikipudi and Md Abdullah Al Hafiz Khan<br/>
