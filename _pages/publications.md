@@ -17,6 +17,19 @@ author_profile: true
 ## Conference Publications
 
 ### 2023
+
+1. <b>["Sentence Level Analysis for Detecting Mental Health Causes Using Social Media Posts"](#)</b><br/>
+Abm. Adnan Azmee, Manohar Murikipudi, Md Abdullah Al Hafiz Khan and Yong Pei. <br/>
+IEEE Compsac DIGI-HEALTH 2023.
+
+1. <b>["CMTN: A Convolutional Multi-Level Transformer to Identify Suicidal Behaviors Using Clinical Notes"](#)</b><br/>
+Manohar Murikipudi, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan and Yong Pei. <br/>
+IEEE Compsac MediComp 2023.
+
+1. <b>["Detection of Behavioral Health Cases from Sensitive Police Officer Narratives"](#)</b><br/>
+Martin Brown, Md Abdullah Al Hafiz Khan, Dominic Thomas, Yong Pei and Monica Nandan. <br/>
+IEEE Compsac DIGI-HEALTH 2023.
+
 1. <b>[Post-stroke Exercise Assessment using Hybrid Quantum Neural Network.](#)</b><br/>
 Md Abdullah Al Hafiz Khan, Manohar Murikipudi  and Abm Adnan Azmee.<br/> <b> Accepted in IEEE Compsac 2023.</b> <br/> Acceptance rate  <b>< 27%</b>.
 
