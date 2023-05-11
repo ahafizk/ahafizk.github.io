@@ -36,11 +36,12 @@ Our research themes combine multiple disciplines - such as sensor technology, hu
 ### Current Students:
 
 1. Manohar Murikipudi (Grad)
-1. Ryann William (Grad)
+
 
 
 ### Past Students:
 
+1. Ryann William (Grad)
 1. Vamsi Krishna Dhulipalla (Grad)
 1. Naga Sai Krishna Adatrao (Grad),
 1. Akula Sai Shashank (Grad)
