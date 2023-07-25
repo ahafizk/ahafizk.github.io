@@ -77,7 +77,7 @@ background-color: #efef;
 <p>Coming Soon!</p>
 
 
-# Past Research Projects
+<!-- # Past Research Projects
  
 
 
@@ -144,4 +144,4 @@ background-color: #efef;
            </div>
 
 
-      </div>
+      </div> -->
