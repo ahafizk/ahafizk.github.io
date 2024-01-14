@@ -18,6 +18,10 @@ author_profile: true
 
 ### 2023
 
+1. <b> [Domain-Enhanced Attention Enabled Deep Network for Behavioral Health Identification from 911 Narratives.](#)</b><br/>
+Abm Adnan Azmee1, Martin Brown2, Md Abdullah Al Hafiz Khan3, Dominic Thomas4, Yong Pei5, Monica Nandan6 (2023). <br/>
+ IEEE BigData on Intelligent Data Mining, 2023.
+
 1. <b>[Sentence Level Analysis for Detecting Mental Health Causes Using Social Media Posts.](#)</b><br/>
 Abm. Adnan Azmee, Manohar Murikipudi, Md Abdullah Al Hafiz Khan and Yong Pei. <br/>
 IEEE Compsac DIGI-HEALTH 2023.
