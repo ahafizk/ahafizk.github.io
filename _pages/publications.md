@@ -16,7 +16,16 @@ author_profile: true
 
 ## Conference Publications
 
+
+### 2024
+
+1. <b>[Exploring the Impact of CM-II Meditation on Stress Levels in College Students through HRV Analysis.](#)</b><br/>
+Sreekanth Gopi, Nasrin Dehbozorgi, and Md Abdullah Al Hafiz Khan.<br/>
+ASEE South East Selection Meeting 2024.
+
+
 ### 2023
+
 
 1. <b> [Domain-Enhanced Attention Enabled Deep Network for Behavioral Health Identification from 911 Narratives.](#)</b><br/>
 Abm Adnan Azmee, Martin Brown, Md Abdullah Al Hafiz Khan, Dominic Thomas, Yong Pei, Monica Nandan (2023). <br/>
