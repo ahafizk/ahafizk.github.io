@@ -19,6 +19,19 @@ author_profile: true
 
 ### 2024
 
+1. <b>[Adaptive Attention Aware Fusion for Human-in-Loop Behavioral Health Detection.](#)</b><br/>
+Martin Brown, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, Dominic Thomas, Yong Pei and Monica Nandan.<br/>
+ACM CHASE 2024 <b>Accepted</b>.
+
+1. <b>[CBSA: A Deep Transfer Learning Framework for Assessing Post-Stroke Exercises](#)</b><br/>
+Manohar Murikipudi, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, and Yong Pei.<br/>
+ACM CHASE 2024 <b>Accepted</b>.
+
+1. <b>[Semantic Learning and Attention Dynamics for Behavioral Classification in Police Narratives.](#)</b><br/>
+Dinesh Attota, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, Dominic Thomas, Yong Pei and Monica Nandan.<br/>
+ACM CHASE 2024 <b>Accepted</b>.
+
+
 1. <b>[Exploring the Impact of CM-II Meditation on Stress Levels in College Students through HRV Analysis.](#)</b><br/>
 Sreekanth Gopi, Nasrin Dehbozorgi, and Md Abdullah Al Hafiz Khan.<br/>
 ASEE South East Selection Meeting 2024.
