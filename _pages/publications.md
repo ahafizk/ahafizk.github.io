@@ -21,11 +21,11 @@ author_profile: true
 
 1. <b>[Large Language Models Performance Comparison of Emotion and Sentiment Classification](#)</b><br/>
 Author(s): Will Stigall, Md Abdullah Al Hafiz Khan, Dinesh Attota, Francis Nweke, Yong Pei<br/>
-ACMSE 2024<b>Accepted</b>.
+ACMSE 2024. <b>Accepted.</b>.
 
 1. <b>[Automated Alphabet Detection from Brain Waves](#)</b><br/>
 Author(s): Christopher Dargan, Francis Nweke, Md Abdullah Al Hafiz Khan, Abm Adnan Azmee, Yong Pei<br/>
-ACMSE 2024<b>Accepted</b>. 
+ACMSE 2024. <b>Accepted.</b>. 
  
 
 1. <b>[Adaptive Attention Aware Fusion for Human-in-Loop Behavioral Health Detection.](#)</b><br/>
