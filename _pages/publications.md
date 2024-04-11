@@ -19,6 +19,16 @@ author_profile: true
 
 ### 2024
 
+1. <b>[Demo: CaseFinder: Automated Visual and Quantitative Analysis Tool for Police Narrative](#)</b><br/>
+Martin Brown, Dominic Thomas, Md Abdullah Al Hafiz Khan, Abm adnan Azmee, Monica Nandan, Yong Pei.<br/>
+IEEE/ACM CHASE 2024. <b>Accepted</b>.
+
+
+1. <b>[Poster: Extracting and Annotating Mental Health Forum Corpus: A Comprehensive Validation Pipeline](#)</b><br/>Rohith Sundar Jonnalagadda; Abm. Adnan Azmee; Dinesh Attota; Md Abdullah Al Hafiz Khan; Yong Pei.<br/>
+IEEE/ACM CHASE 2024. <b>Accepted</b>.
+
+
+
 1. <b>[Large Language Models Performance Comparison of Emotion and Sentiment Classification](#)</b><br/>
 Author(s): Will Stigall, Md Abdullah Al Hafiz Khan, Dinesh Attota, Francis Nweke, Yong Pei<br/>
 ACMSE 2024. <b>Accepted</b>.
