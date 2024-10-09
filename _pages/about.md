@@ -24,7 +24,7 @@ Our research interest lies in the Human-AI teaming domain by incorporating human
 
 
 <hr/>
-<font color='blue'>We are always looking for motivated, hardworking students to join our <a href="https://ahafizk.github.io/udm/">CHAT lab</a>.</font> If you are interested, please submit your application <a href="https://forms.office.com/r/wYXXenTuDs">here</a>.
+<font color='blue'>We are always looking for motivated, hardworking students to join our <a href="https://ahafizk.github.io/chat/">CHAT lab</a>.</font> If you are interested, please submit your application <a href="https://forms.office.com/r/wYXXenTuDs">here</a>.
 <hr/>
 
 <!-- ## Recent News
