@@ -1,6 +1,6 @@
 ---
 title: "" 
-permalink: /udm/
+permalink: /chat/
 author_profile: true
 ---
 
