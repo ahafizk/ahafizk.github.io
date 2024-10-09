@@ -5,7 +5,9 @@ author_profile: true
 ---
 
 
-Welcome to <font color="blue"><b>U</b>biquitous <b>D</b>ata <b>M</b>ining (UDM) Lab!</font> Advances in mobile, wearable, and IoT technologies pose significant challenges in daily life. UDM lab excavates inherent patterns from the data to build applications to improve quality of life. More specifically, our focus is on designing, developing, and evaluating intelligent systems and applications with the help of artificial intelligence in practice. The research pursues the junction of pervasive and mobile sensing and computing-based data analytics, signal processing, human-computer interaction (HCI), and text analysis. 
+Welcome to <font color="blue">
+<b>C</b>ooperative <b>H</b>uman-AI <b>T</b>eaming (CHAT) Lab
+	</font> With advances in Artificial Intelligence (AI) and Machine learning-driven applications, there is a dire need to interact and cooperate with AI/ML algorithms to develop robust, scalable solutions that prevent performance degradation and adapt to the deployed environment while meeting expectations. CHAT lab proposes, designs, and develops novel AI/ML algorithms by incorporating human-in-the-loop and human-on-the-loop to solve real-world problems. The research pursues the junction of natural language processing, human-computer interaction (HCI), and pervasive computing. 
 
 Here is the overview of the key research focus of our lab, which aims to build applied machine learning systems for the betterment of human life.
 
@@ -30,17 +32,20 @@ Our research themes combine multiple disciplines - such as sensor technology, hu
 
 ### PhD Students
 
-1. Abm. Adnan Azmee
-1. Martin Brown
+1. Abm. Adnan Azmee (CS PhD)
+1. Francis Nweke (CS PhD)
+1. Haige Zhu (MS CS)
+1. Sanjay Potluri (MS CS)
+1. Mason Pederson (Undergrad CS)
+1. Ryan Tran (Undergrad CS)
+1. Kris Prasad (Undergrad CS)
 
-### Current Students:
-
-Will be updated soon!
 
 
 
 ### Past Students:
 
+1. Martin Brown (DS PhD Graduated)
 1. Manohar Murikipudi (Grad) 
 1. Ryann William (Grad)
 1. Vamsi Krishna Dhulipalla (Grad)
