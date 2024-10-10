@@ -24,7 +24,7 @@ Our research themes combine multiple disciplines - such as sensor technology, hu
 
 
 <hr/>
-<font color='blue'>We are always looking for motivated students to join our <a href="https://ahafizk.github.io/udm/">UDM lab</a>.</font> If you are interested, please drop me an email.
+<font color='blue'>We are always looking for motivated students to join our <a href="https://ahafizk.github.io/chat/">CHAT lab</a>.</font> If you are interested, please drop me an email.
 <hr/>
 
 
