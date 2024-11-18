@@ -19,36 +19,46 @@ author_profile: true
 
 ### 2024
 
+1. <b>["Explainable Multi-Label Classification Framework for Behavioral Health Based on Domain Concepts." ](#)</b></br> Francis Nweke, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, and Monica Nandan.<br/>
+IEEE Bigdata 2024. <b>Accepted</b>.
+
+1. <b>["Domain Knowledge-Driven Multi-Label Behavioral Health Identification from Police Report."](#)</b></br> Abm Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, and Monica Nandan.<br/>
+IEEE Bigdata 2024. <b>Accepted</b>.
+
+1. <b>[Combined Correlational Network for Identifying Behavioral Health Cases from First Responder Report](#)</b></br>, Mason Pederson, Abm Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, Monica Nandan, and Francis Nweke. <br/>
+IEEE Bigdata 2024. <b>Accepted</b>.
+
+
 1. <b>[Demo: CaseFinder: Automated Visual and Quantitative Analysis Tool for Police Narrative](#)</b><br/>
 Martin Brown, Dominic Thomas, Md Abdullah Al Hafiz Khan, Abm adnan Azmee, Monica Nandan, Yong Pei.<br/>
-IEEE/ACM CHASE 2024. <b>Accepted</b>.
+IEEE/ACM CHASE 2024. <b>Published</b>.
 
 
 1. <b>[Poster: Extracting and Annotating Mental Health Forum Corpus: A Comprehensive Validation Pipeline](#)</b><br/>Rohith Sundar Jonnalagadda; Abm. Adnan Azmee; Dinesh Attota; Md Abdullah Al Hafiz Khan; Yong Pei.<br/>
-IEEE/ACM CHASE 2024. <b>Accepted</b>.
+IEEE/ACM CHASE 2024. <b>Published</b>.
 
 
 
 1. <b>[Large Language Models Performance Comparison of Emotion and Sentiment Classification](#)</b><br/>
 Author(s): Will Stigall, Md Abdullah Al Hafiz Khan, Dinesh Attota, Francis Nweke, Yong Pei<br/>
-ACMSE 2024. <b>Accepted</b>.
+ACMSE 2024. <b>Published</b>.
 
 1. <b>[Automated Alphabet Detection from Brain Waves](#)</b><br/>
 Author(s): Christopher Dargan, Francis Nweke, Md Abdullah Al Hafiz Khan, Abm Adnan Azmee, Yong Pei<br/>
-ACMSE 2024. <b>Accepted</b>. 
+ACMSE 2024. <b>Published</b>. 
  
 
 1. <b>[Adaptive Attention Aware Fusion for Human-in-Loop Behavioral Health Detection.](#)</b><br/>
 Martin Brown, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, Dominic Thomas, Yong Pei and Monica Nandan.<br/>
-ACM CHASE 2024 <b>Accepted</b>.
+ACM CHASE 2024 <b>Published</b>.
 
 1. <b>[CBSA: A Deep Transfer Learning Framework for Assessing Post-Stroke Exercises](#)</b><br/>
 Manohar Murikipudi, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, and Yong Pei.<br/>
-ACM CHASE 2024 <b>Accepted</b>.
+ACM CHASE 2024 <b>Published</b>.
 
 1. <b>[Semantic Learning and Attention Dynamics for Behavioral Classification in Police Narratives.](#)</b><br/>
 Dinesh Attota, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, Dominic Thomas, Yong Pei and Monica Nandan.<br/>
-ACM CHASE 2024 <b>Accepted</b>.
+ACM CHASE 2024 <b>Published</b>.
 
 
 1. <b>[Exploring the Impact of CM-II Meditation on Stress Levels in College Students through HRV Analysis.](#)</b><br/>
