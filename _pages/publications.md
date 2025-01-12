@@ -30,7 +30,7 @@ IEEE Bigdata 2024. <b>Published</b>.
 IEEE Bigdata 2024. <b>Published</b>.
 
 1. <b>[Combined Correlational Network for Identifying Behavioral Health Cases from First Responder Report](#)</b></br>, Mason Pederson, Abm Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, Monica Nandan, and Francis Nweke. <br/>
-IEEE Bigdata 2024. <b>Published</b>.
+IEEE Bigdata 2024. <b>Published</b>.<b style="color:red">BRunner-up Best paper award</b>.
 
 
 1. <b>[Demo: CaseFinder: Automated Visual and Quantitative Analysis Tool for Police Narrative](#)</b><br/>
