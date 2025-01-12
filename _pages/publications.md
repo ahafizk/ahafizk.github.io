@@ -19,14 +19,18 @@ author_profile: true
 
 ### 2024
 
+1. <b>["A transformer-driven framework for multi-label behavioral health classification in police narratives."](#)</b></br>
+Francis Nweke,  Abm Adnan Azmee,  Md Abdullah Al Hafiz Khan,  Yong Pei,  Dominic Thomas,  Monica Nandan<br/>
+Published AIMS Press ACI journal.
+
 1. <b>["Explainable Multi-Label Classification Framework for Behavioral Health Based on Domain Concepts." ](#)</b></br> Francis Nweke, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, and Monica Nandan.<br/>
-IEEE Bigdata 2024. <b>Accepted</b>.
+IEEE Bigdata 2024. <b>Published</b>.
 
 1. <b>["Domain Knowledge-Driven Multi-Label Behavioral Health Identification from Police Report."](#)</b></br> Abm Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, and Monica Nandan.<br/>
-IEEE Bigdata 2024. <b>Accepted</b>.
+IEEE Bigdata 2024. <b>Published</b>.
 
 1. <b>[Combined Correlational Network for Identifying Behavioral Health Cases from First Responder Report](#)</b></br>, Mason Pederson, Abm Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, Monica Nandan, and Francis Nweke. <br/>
-IEEE Bigdata 2024. <b>Accepted</b>.
+IEEE Bigdata 2024. <b>Published</b>.
 
 
 1. <b>[Demo: CaseFinder: Automated Visual and Quantitative Analysis Tool for Police Narrative](#)</b><br/>
