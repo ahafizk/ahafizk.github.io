@@ -19,17 +19,18 @@ author_profile: true
 
 ### 2024
 
-1. <b>["A transformer-driven framework for multi-label behavioral health classification in police narratives."](#)</b></br>
+1. <b>["A transformer-driven framework for multi-label behavioral health classification in police narratives."](#)</b><br/>
 Francis Nweke,  Abm Adnan Azmee,  Md Abdullah Al Hafiz Khan,  Yong Pei,  Dominic Thomas,  Monica Nandan<br/>
 Published AIMS Press ACI journal. 2024, Volume 4, Issue 2: 234-252. doi: 10.3934/aci.2024014
 
-1. <b>["Explainable Multi-Label Classification Framework for Behavioral Health Based on Domain Concepts." ](#)</b></br> Francis Nweke, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, and Monica Nandan.<br/>
+1. <b>[Explainable Multi-Label Classification Framework for Behavioral Health Based on Domain Concepts. ](#)</b>
+<br/> Francis Nweke, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, and Monica Nandan.<br/>
 IEEE Bigdata 2024. <b>Published</b>.
 
-1. <b>["Domain Knowledge-Driven Multi-Label Behavioral Health Identification from Police Report."](#)</b></br> Abm Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, and Monica Nandan.<br/>
+1. <b>["Domain Knowledge-Driven Multi-Label Behavioral Health Identification from Police Report."](#)</b><br/> Abm Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, and Monica Nandan.<br/>
 IEEE Bigdata 2024. <b>Published</b>.
 
-1. <b>[Combined Correlational Network for Identifying Behavioral Health Cases from First Responder Report](#)</b></br>, Mason Pederson, Abm Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, Monica Nandan, and Francis Nweke. <br/>
+1. <b>[Combined Correlational Network for Identifying Behavioral Health Cases from First Responder Report](#)</b><br/>, Mason Pederson, Abm Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, Monica Nandan, and Francis Nweke. <br/>
 IEEE Bigdata 2024. <b>Published</b>.<b style="color:red">BRunner-up Best paper award</b>.
 
 
