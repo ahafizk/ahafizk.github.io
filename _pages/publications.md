@@ -21,7 +21,7 @@ author_profile: true
 
 1. <b>["A transformer-driven framework for multi-label behavioral health classification in police narratives."](#)</b></br>
 Francis Nweke,  Abm Adnan Azmee,  Md Abdullah Al Hafiz Khan,  Yong Pei,  Dominic Thomas,  Monica Nandan<br/>
-Published AIMS Press ACI journal.
+Published AIMS Press ACI journal. 2024, Volume 4, Issue 2: 234-252. doi: 10.3934/aci.2024014
 
 1. <b>["Explainable Multi-Label Classification Framework for Behavioral Health Based on Domain Concepts." ](#)</b></br> Francis Nweke, Abm. Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, and Monica Nandan.<br/>
 IEEE Bigdata 2024. <b>Published</b>.
