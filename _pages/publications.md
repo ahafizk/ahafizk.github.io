@@ -17,7 +17,18 @@ author_profile: true
 ## Conference Publications
 
 
+
+###b2025
+
+1. <b>[Human AI Collaboration Framework for Detecting Mental Illness Causes from Social
+Media ](#)</b><br/> Abm. Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei.<br/>
+IEEE CHASE 2025. <b>Accepted</b>.
+
+
+
 ### 2024
+
+
 
 1. <b>["A transformer-driven framework for multi-label behavioral health classification in police narratives."](#)</b><br/>
 Francis Nweke,  Abm Adnan Azmee,  Md Abdullah Al Hafiz Khan,  Yong Pei,  Dominic Thomas,  Monica Nandan<br/>
