@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- ## Conference/Journal (Under Review)
  
- 1. ﻿<b>Cross-domain human activity recognition with limited annotation</b>. 
+ 1. <b>Cross-domain human activity recognition with limited annotation</b>. 
  <br/><b> Md Abdullah Al Hafiz Khan</b>, Nirmalya Roy. [In Pervasive Mobile Computing Journal.](https://www.journals.elsevier.com/pervasive-and-mobile-computing)
 
  -->
