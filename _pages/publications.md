@@ -22,8 +22,11 @@ author_profile: true
 
 1. <b>[Human AI Collaboration Framework for Detecting Mental Illness Causes from Social
 Media ](#)</b><br/> Abm. Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei.<br/>
-IEEE CHASE 2025. <b>Accepted</b>.
+IEEE CHASE 2025. <b>Published</b>.
 
+1. <b>[BrainDil: Enhanced and Efficient Brain Tumor Classification in MRI Images using Dilated Convolution.](#)</b><br/>Ryan Deem, Md Abdullah Al Hafiz Khan, Garrett Goodman, Michail Alexiou.<br/> The Sixteenth International Conference on Information,
+Intelligence, Systems and Applications
+(IISA 2025). Accpeted.
 
 
 ### 2024

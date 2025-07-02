@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am an Assistant Professor in the <a href="https://ccse.kennesaw.edu/cs/" target="_blank">Computer Science department</a> at <a href="https://www.kennesaw.edu/" target="_blank">Kennesaw State University</a> (KSU). In addition, I direct the <a href="https://ahafizk.github.io/udm/">Cooperative Human-AI Teaming (CHAT)</a> at Kennesaw State University (KSU). Before joining KSU, I was a scientist in the Artificial Intelligence Lab at Philips Research North America, Cambridge, MA. 
+I am an Assistant Professor in the <a href="https://ccse.kennesaw.edu/cs/" target="_blank">Computer Science department</a> at <a href="https://www.kennesaw.edu/" target="_blank">Kennesaw State University</a> (KSU). In addition, I direct the <a href="https://chatlab.us">Cooperative Human-AI Teaming (CHAT)</a> at Kennesaw State University (KSU). Before joining KSU, I was a scientist in the Artificial Intelligence Lab at Philips Research North America, Cambridge, MA. 
 
 I obtained Ph.D. in Information Systems from the University of Maryland, Baltimore County (UMBC), and received a BSc degree in Computer Science and Engineering from Bangladesh University of Engineering & Technology (BUET). I worked as a software engineer in several software companies in Bangladesh.
 
@@ -24,7 +24,7 @@ Our research interest lies in the Human-AI teaming domain by incorporating human
 
 
 <hr/>
-<font color='blue'>We are always looking for motivated, hardworking students to join our <a href="https://ahafizk.github.io/chat/">CHAT lab</a>.</font> If you are interested, please submit your application <a href="https://forms.office.com/r/wYXXenTuDs">here</a>.
+<font color='blue'>We are always looking for motivated, hardworking students to join our <a href="https://chatlab.us/">CHAT lab</a>.</font> If you are interested, please submit your application <a href="https://forms.office.com/r/wYXXenTuDs">here</a>.
 <hr/>
 
 <!-- ## Recent News

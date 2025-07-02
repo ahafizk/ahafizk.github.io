@@ -6,7 +6,7 @@ author_profile: true
 
 
 Welcome to <font color="blue">
-<b>C</b>ooperative <b>H</b>uman-AI <b>T</b>eaming (CHAT) Lab
+<b>C</b>ooperative <b>H</b>uman-AI <b>T</b>eaming <a href="https://chatlab.us/">(CHAT) Lab</a>
 	</font> With advances in Artificial Intelligence (AI) and Machine learning-driven applications, there is a dire need to interact and cooperate with AI/ML algorithms to develop robust, scalable solutions that prevent performance degradation and adapt to the deployed environment while meeting expectations. CHAT lab proposes, designs, and develops novel AI/ML algorithms by incorporating human-in-the-loop and human-on-the-loop to solve real-world problems. The research pursues the junction of natural language processing, human-computer interaction (HCI), and pervasive computing. 
 
 Here is the overview of the key research focus of our lab, which aims to build applied machine learning systems for the betterment of human life.
