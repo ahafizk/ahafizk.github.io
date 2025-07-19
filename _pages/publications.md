@@ -20,6 +20,15 @@ author_profile: true
 
 ### 2025
 
+1. <b>[Large language model enabled synthetic dataset generation for human-AI teaming in mental health assessment](#)</b><br/> Sai Sanjay Potluri, Md Abdullah Al Hafiz Khan and Yong Pei<br/>
+Aims ACI Jounral 2025. <b>Published</b>.
+
+
+
+
+1. <b>[Large language model enabled mental health app recommendations using structured datasets](#)</b><br/> Kris Prasad1, Md Abdullah Al Hafiz Khan,  Yong Pei.<br/>
+Aims ACI Jounral 2025. <b>Published</b>.
+
 1. <b>[Human AI Collaboration Framework for Detecting Mental Illness Causes from Social
 Media ](#)</b><br/> Abm. Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei.<br/>
 IEEE CHASE 2025. <b>Published</b>.
