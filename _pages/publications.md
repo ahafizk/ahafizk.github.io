@@ -26,7 +26,7 @@ Aims ACI Jounral 2025. <b>Published</b>.
 
 
 
-1. <b>[Large language model enabled mental health app recommendations using structured datasets](#)</b><br/> Kris Prasad1, Md Abdullah Al Hafiz Khan,  Yong Pei.<br/>
+1. <b>[Large language model enabled mental health app recommendations using structured datasets](#)</b><br/> Kris Prasad, Md Abdullah Al Hafiz Khan,  Yong Pei.<br/>
 Aims ACI Jounral 2025. <b>Published</b>.
 
 1. <b>[Human AI Collaboration Framework for Detecting Mental Illness Causes from Social
