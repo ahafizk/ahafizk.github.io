@@ -74,7 +74,7 @@ background-color: #efef;
 # Recent Research Projects:
 
 
-<p>
+<!-- <p> -->
 
 ## 1. Human–AI Teaming 
 Human–AI teaming is the central focus of our research, where we design and study ML/AI models and frameworks that enable effective collaboration between humans and artificial intelligence systems. Unlike traditional automation, our research work emphasizes partnership and coordination, ensuring that AI complements human expertise rather than replaces it. Designing algorithms, models, and frameworks that enable collaborative decision-making and coordination between humans and AI systems, strongly emphasizing safety-critical domains such as healthcare, behavioral health, and emergency management. 
@@ -115,7 +115,7 @@ AI-assisted safety and emergency response systems that augment human decision-ma
 1. Khan, A., et al. CBSA: A deep transfer learning framework for assessing post-stroke exercises. ACM CHASE, 2024.
 1. Khan, A., et al. CMTN: A convolutional multi-level transformer to identify suicidal behaviors using clinical notes. IEEE COMPSAC MediComp, 2023.
 
-</p>
+<!-- </p> -->
 
 
 
