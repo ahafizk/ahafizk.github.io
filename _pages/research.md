@@ -74,74 +74,49 @@ background-color: #efef;
 # Recent Research Projects:
 
 
-<p>Coming Soon!</p>
+<p>
+
+## 1. Human–AI Teaming 
+Human–AI teaming is the central focus of our research, where we design and study ML/AI models and frameworks that enable effective collaboration between humans and artificial intelligence systems. Unlike traditional automation, our research work emphasizes partnership and coordination, ensuring that AI complements human expertise rather than replaces it. Designing algorithms, models, and frameworks that enable collaborative decision-making and coordination between humans and AI systems, strongly emphasizing safety-critical domains such as healthcare, behavioral health, and emergency management. 
+Natural Language Processing (NLP) & Large Language Models (LLMs): Developing and applying domain-specific NLP and LLM solutions for understanding, reasoning, and interaction in sensitive contexts. Applications include text mining, question answering, retrieval augmented generation, behavioral health detection from narratives, social media analysis, and emergency communication.
+
+### Collaborative Explainable AI (XAI): Creating interpretable and interactive AI systems that support human understanding, trust, and feedback, ensuring that humans remain in the loop during decision-making in healthcare and safety-critical applications.
+Through this research, we aim to create next-generation human–AI teams that combine computational intelligence with human judgment, advancing both theory and practice of collaborative, safe, and responsible AI.
+
+### Selected Recent Publications:
+1. Khan, A., et al. Large language model enabled synthetic dataset generation for human-AI teaming in mental health assessment. AIMS ACI, 2025.
+1. Khan, A., et al. Transformer-driven framework for multi-label behavioral health classification in police narratives. AIMS ACI, 2024.
+1. Khan, A., et al. Explainable multi-label classification framework for behavioral health based on domain concepts. IEEE BigData, 2024.
+1. Khan, A., et al. Adaptive attention aware fusion for human-in-loop behavioral health detection. ACM CHASE, 2024.
 
 
-<!-- # Past Research Projects
- 
+## 2. Knowledge-Enhanced Learning & Reasoning: Advancing methods integrating structured, symbolic, and contextual knowledge into AI systems to enable transparent reasoning, adaptive decision-making, and interactive learning. This includes building intelligent models that learn from human feedback, domain expertise, and heterogeneous data sources, improving alignment, adaptability, and reliability.
+
+### Selected Recent Publications:
+1. Khan, A., et al. Domain knowledge-driven multi-label behavioral health identification from police report. IEEE BigData, 2024.
+1. Khan, A., et al. Semantic learning and attention dynamics for behavioral classification in police narratives. ACM CHASE, 2024.
+
+## 3. Privacy & Security in AI: Designing trustworthy and privacy-preserving AI methods for sensitive applications, including healthcare and law enforcement. Research spans membership inference, attribute inference, and data leakage risks, as well as defense mechanisms for large language models operating in high-stakes environments.
+
+### Selected Recent Publications:
+1. Khan, A., et al. Adversarial robustness evaluation of deep learning classifiers on medical imaging data. (Workshop Paper, 2023).
+1. Khan, A., et al. Systematic analysis of a deep learning model for vulnerable code detection. IEEE COMPSAC STPSA, 2022.
+
+## 4. Healthcare & Safety-Critical Applications
+Applying AI to healthcare, behavioral health, and emergency management, where reliability, transparency, and accountability are essential. This includes:
+Clinical AI for diagnosis, treatment planning, and monitoring.
+Behavioral and mental health analysis using multimodal data.
+AI-assisted safety and emergency response systems that augment human decision-making under uncertainty.
+
+#### Selected Recent Publications:
+1. Khan, A., et al. BrainDil: Enhanced and efficient brain tumor classification in MRI images using dilated convolution. IISA, 2025. (Best Paper Award)
+1. Khan, A., et al. Human AI collaboration framework for detecting mental illness causes from social media. IEEE CHASE, 2025.
+1. Khan, A., et al. Domain knowledge-driven multi-label behavioral health identification from police report. IEEE BigData, 2024.
+1. Khan, A., et al. CBSA: A deep transfer learning framework for assessing post-stroke exercises. ACM CHASE, 2024.
+1. Khan, A., et al. CMTN: A convolutional multi-level transformer to identify suicidal behaviors using clinical notes. IEEE COMPSAC MediComp, 2023.
+
+</p>
 
 
 
-
-<div class="div-table">
-         
- <div class="div-table-row">
-                <div class="div-header-col"><b>1. Published Literature Search on Medical Care</b></div>
-                <div  class="div-table-col">
                 
-                <figure>
-                <a href="/research/1_covid19/">
-	<img src='/images/research/covid19-architecture.png' width="100" height="100" class='center' >
-	<figcaption>Covid-19 System Architecture</figcaption>
-	</a>
-</figure>
-
-                </div>
-                <div  class="div-table-col">
-                <br/><br/>
-                This work is the response to the COVID-19 Open Research Dataset Challenge (CORD-19). The overall goal of the challenge is to facilitate knowledge extraction from the large CORD-19 dataset of over 51,000 scholarly articles, including over 40,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
-                </div>
-             </div>
-
- 
- 
- 
- 
-            <div class="div-table-row">
-            <div class="div-header-col"><b>2. HAR from Smartphone to smartwatch accelerometer data (vice versa)</b></div>
-                  <div class="div-table-col">
-                  
-                   <a href="/portfolio/2_hdcnn/">
-<center>
-<figure>
-	<img src='/images/research/smartphone_to_smartwatch_transfer.png' style='width: 500px; height: 250px; align: middle;'>
-	<figcaption>Fig. Heterogeneous Deep Convolutional Neural Network (HDCNN) architecture</figcaption>
-</figure>
-</center>
-</a>
-                  </div>
-                <div class="div-table-col2">
-                <br/><br/>
-                We investigate the problem of making human activity recognition (AR) scalable–i.e., allowing AR classifiers trained in one context to be readily adapted to a different contextual domain.
- This is important because AR technologies can achieve high accuracy if the classifiers are trained for a specific individual or device, but show significant degradation when the same classifier is 
- applied context. To allow such adaptation without requiring the onerous step of collecting large volumes of labeled training data in the target domain, we proposed a transductive transfer learning model that is specifically tuned to the properties of convolutional neural networks (CNNs). 
- <!-- 
-
- Our model, called HDCNN, assumes that the relative distribution of weights in the different CNN 
- layers will remain invariant, as long as the set of activities being monitored does not change. 
- Evaluation on realworld data shows that HDCNN is able to achieve high accuracy even without any 
- labeled training data in the target domain, and offers even higher accuracy (significantly outperforming
-  competitive shallow and deep classifiers) when even a modest amount of labeled training data is available.
-  
- -->
-                </div>
-                
-            </div>
-            <div class="div-table-row">
-                <div class="div-table-col"></div>
-                <div class="div-table-col"></div>
-                <div class="div-table-col"></div>
-           </div>
-
-
-      </div> -->
