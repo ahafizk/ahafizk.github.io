@@ -13,9 +13,7 @@ I am an Assistant Professor in the Department of <a href="https://ccse.kennesaw.
 
 Before joining KSU, I was a scientist at the Artificial Intelligence Lab at Philips Research North America in Cambridge, MA, where I worked on applied AI solutions for healthcare technologies. I earned my Ph.D. in Information Systems from the University of Maryland, Baltimore County (UMBC), and my B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering & Technology (BUET). Prior to my doctoral studies, I worked as a software engineer in several technology companies in Bangladesh.
 
-I am an Assistant Professor in the <a href="https://ccse.kennesaw.edu/cs/" target="_blank">Computer Science department</a> at <a href="https://www.kennesaw.edu/" target="_blank">Kennesaw State University</a> (KSU). In addition, I direct the <a href="https://chatlab.us">Cooperative Human-AI Teaming (CHAT)</a> at Kennesaw State University (KSU). Before joining KSU, I was a scientist in the Artificial Intelligence Lab at Philips Research North America, Cambridge, MA. 
 
-I obtained Ph.D. in Information Systems from the University of Maryland, Baltimore County (UMBC), and received a BSc degree in Computer Science and Engineering from Bangladesh University of Engineering & Technology (BUET). I worked as a software engineer in several software companies in Bangladesh.
 
 <hr/>
 
