@@ -71,7 +71,7 @@ background-color: #efef;
 </style>
 
 
-# Recent Research Projects:
+# Research Areas:
 
 
 <!-- <p> -->
