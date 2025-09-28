@@ -80,7 +80,8 @@ background-color: #efef;
 Human–AI teaming is the central focus of our research, where we design and study ML/AI models and frameworks that enable effective collaboration between humans and artificial intelligence systems. Unlike traditional automation, our research work emphasizes partnership and coordination, ensuring that AI complements human expertise rather than replaces it. Designing algorithms, models, and frameworks that enable collaborative decision-making and coordination between humans and AI systems, strongly emphasizing safety-critical domains such as healthcare, behavioral health, and emergency management. 
 Natural Language Processing (NLP) & Large Language Models (LLMs): Developing and applying domain-specific NLP and LLM solutions for understanding, reasoning, and interaction in sensitive contexts. Applications include text mining, question answering, retrieval augmented generation, behavioral health detection from narratives, social media analysis, and emergency communication.
 
-### Collaborative Explainable AI (XAI): Creating interpretable and interactive AI systems that support human understanding, trust, and feedback, ensuring that humans remain in the loop during decision-making in healthcare and safety-critical applications.
+### Collaborative Explainable AI (XAI): 
+Creating interpretable and interactive AI systems that support human understanding, trust, and feedback, ensuring that humans remain in the loop during decision-making in healthcare and safety-critical applications.
 Through this research, we aim to create next-generation human–AI teams that combine computational intelligence with human judgment, advancing both theory and practice of collaborative, safe, and responsible AI.
 
 ### Selected Recent Publications:
@@ -90,13 +91,15 @@ Through this research, we aim to create next-generation human–AI teams that co
 1. Khan, A., et al. Adaptive attention aware fusion for human-in-loop behavioral health detection. ACM CHASE, 2024.
 
 
-## 2. Knowledge-Enhanced Learning & Reasoning: Advancing methods integrating structured, symbolic, and contextual knowledge into AI systems to enable transparent reasoning, adaptive decision-making, and interactive learning. This includes building intelligent models that learn from human feedback, domain expertise, and heterogeneous data sources, improving alignment, adaptability, and reliability.
+## 2. Knowledge-Enhanced Learning & Reasoning: 
+Advancing methods integrating structured, symbolic, and contextual knowledge into AI systems to enable transparent reasoning, adaptive decision-making, and interactive learning. This includes building intelligent models that learn from human feedback, domain expertise, and heterogeneous data sources, improving alignment, adaptability, and reliability.
 
 ### Selected Recent Publications:
 1. Khan, A., et al. Domain knowledge-driven multi-label behavioral health identification from police report. IEEE BigData, 2024.
 1. Khan, A., et al. Semantic learning and attention dynamics for behavioral classification in police narratives. ACM CHASE, 2024.
 
-## 3. Privacy & Security in AI: Designing trustworthy and privacy-preserving AI methods for sensitive applications, including healthcare and law enforcement. Research spans membership inference, attribute inference, and data leakage risks, as well as defense mechanisms for large language models operating in high-stakes environments.
+## 3. Privacy & Security in AI: 
+Designing trustworthy and privacy-preserving AI methods for sensitive applications, including healthcare and law enforcement. Research spans membership inference, attribute inference, and data leakage risks, as well as defense mechanisms for large language models operating in high-stakes environments.
 
 ### Selected Recent Publications:
 1. Khan, A., et al. Adversarial robustness evaluation of deep learning classifiers on medical imaging data. (Workshop Paper, 2023).
@@ -108,7 +111,7 @@ Clinical AI for diagnosis, treatment planning, and monitoring.
 Behavioral and mental health analysis using multimodal data.
 AI-assisted safety and emergency response systems that augment human decision-making under uncertainty.
 
-#### Selected Recent Publications:
+### Selected Recent Publications:
 1. Khan, A., et al. BrainDil: Enhanced and efficient brain tumor classification in MRI images using dilated convolution. IISA, 2025. (Best Paper Award)
 1. Khan, A., et al. Human AI collaboration framework for detecting mental illness causes from social media. IEEE CHASE, 2025.
 1. Khan, A., et al. Domain knowledge-driven multi-label behavioral health identification from police report. IEEE BigData, 2024.
