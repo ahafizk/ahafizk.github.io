@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-# List of Publications [[Google Scholar Profile]](https://scholar.google.com/citations?user=JFZc5jYAAAAJ&hl=en){:target="_blank"}
+# List of Publications [[Google Scholar Profile]](https://scholar.google.com/citations?user=w9Bl6JgAAAAJ&hl=en){:target="_blank"}
 
 <!-- ## Conference/Journal (Under Review)
  
