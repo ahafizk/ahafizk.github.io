@@ -20,6 +20,11 @@ author_profile: true
 
 ### 2025
 
+1. <b>[Trust-Aware Human-AI Teaming Framework for Fake News Detection Using LLMs](#)</b><br/> Abdul Muntakim, Sai Sanjay Potluri, Md Abdullah Al Hafiz Khan, Yong Pei<br/>
+IEEE ICMLA 2025. <b>Accepted</b>.
+
+
+
 1. <b>[Large language model enabled synthetic dataset generation for human-AI teaming in mental health assessment](#)</b><br/> Sai Sanjay Potluri, Md Abdullah Al Hafiz Khan and Yong Pei<br/>
 Aims ACI Jounral 2025. <b>Published</b>.
 
