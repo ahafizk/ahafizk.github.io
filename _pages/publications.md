@@ -58,7 +58,7 @@ IEEE Bigdata 2024. <b>Published</b>.
 1. <b>["Domain Knowledge-Driven Multi-Label Behavioral Health Identification from Police Report."](#)</b><br/> Abm Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, and Monica Nandan.<br/>
 IEEE Bigdata 2024. <b>Published</b>.
 
-1. <b>[Combined Correlational Network for Identifying Behavioral Health Cases from First Responder Report](#)</b><br/>, Mason Pederson, Abm Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, Monica Nandan, and Francis Nweke. <br/>
+1. <b>[Combined Correlational Network for Identifying Behavioral Health Cases from First Responder Report](#)</b><br/>Mason Pederson, Abm Adnan Azmee, Md Abdullah Al Hafiz Khan, Yong Pei, Dominic Thomas, Monica Nandan, and Francis Nweke. <br/>
 IEEE Bigdata 2024. <b>Published</b>.<b style="color:red">Runner-up Best paper award</b>.
 
 
