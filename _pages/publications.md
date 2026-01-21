@@ -20,9 +20,10 @@ author_profile: true
 
 ### 2025
 
-1.<b>[Brain Tumor Classifiers Under Attack: Robustness of ResNet Variants Against Transferable FGSM and PGD Attacks.](#)</b><br/> Ryan Deem, Garrett Goodman, Waqas
-Majeed, Md Abdullah Al Hafiz Khan and Michail Alexiou. <br/> IEEE 25th International Conference on BioInformatics and BioEngineering(BIBE) 2025. 
 
+
+1. <b>[Brain Tumor Classifiers Under Attack: Robustness of ResNet Variants Against Transferable FGSM and PGD Attacks.](#)</b><br/> Ryan Deem, Garrett Goodman, Waqas Majeed, Md Abdullah Al Hafiz Khan and Michail Alexiou.<br/> 
+IEEE 25th International Conference on BioInformatics and BioEngineering(BIBE) 2025. <b>Published</b>.
 
 
 1. <b>[Trust-Aware Human-AI Teaming Framework for Fake News Detection Using LLMs](#)</b><br/> Abdul Muntakim, Sai Sanjay Potluri, Md Abdullah Al Hafiz Khan, Yong Pei<br/>
