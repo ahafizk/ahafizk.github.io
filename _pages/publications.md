@@ -24,10 +24,14 @@ author_profile: true
 1. <b>[Human-AI Collaborative Framework for Identifying Behavioral Health Conditions from Clinical Notes.](#)</b><br/> Abm. Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei.<br/> IEEE/ACM CHASE 2026. <b>Accepted</b>.
 
 1. <b>[Bypassing Krum: Selection-Aware Backdoor Attacks in Federated Learning.](#)</b><br/> Srinivasan Subramanian, Md Abdullah Al Hafiz Khan, Kazi Aminul Islam.<br/> 
-IEEE/ACM 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS). <b>Accepted</b>.
+IEEE/ACM 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS), 2026. <b>Accepted</b>.
 
 1. <b>[FedPAGR: Federated Prototype Alignment via Geometric Refinement for Heterogeneous Architectures.](https://aclanthology.org/2026.acl-srw.37/)</b><br/> Kris Prasad, Md Abdullah Al Hafiz Khan<br/> 
 Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop), 2026 <b>Published</b>.
+
+
+1. <b>[Efficient summarization with lightweight LLMs through sparse input activation and adaptive prompting.](https://www.aimspress.com/article/doi/10.3934/aci.2026004)</b><br/>    Srinivasan Subramanian, Ramya Madhuri Narapureddy , Mohana Priya Palanisamy , Kazi Aminul Islam , Md. Abdullah Al Hafiz Khan , <br/> 
+Applied Computing and Intelligence (AIMS ACI) Journal 2026, Volume 6, Issue 1: 58-78. doi: 10.3934/aci.2026004 <b>Published</b>.
 
 
 
