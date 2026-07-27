@@ -48,6 +48,10 @@ IEEE 25th International Conference on BioInformatics and BioEngineering(BIBE) 20
 1. <b>[Trust-Aware Human-AI Teaming Framework for Fake News Detection Using LLMs](#)</b><br/> Abdul Muntakim, Sai Sanjay Potluri, Md Abdullah Al Hafiz Khan, Yong Pei<br/>
 IEEE ICMLA 2025. <b>Published</b>.
 
+1. <b>[RECAP: reinforced, explainable LLM classifier for behavioral-health analysis in police narratives](#)</b><br/> William A. Stigall,  Francis Nweke,  Hailey N. Walker,  Md Abdullah Al Hafiz Khan,  Sharon Perry,  Yong Pei,  Dominic Thomas,  Monica Nandan.<br/> AIMS ACI Journal 2025. Accepted: 12 December 2025 Published: 24 December 2025.<b>Published</b>.
+
+
+
 
 
 1. <b>[Large language model enabled synthetic dataset generation for human-AI teaming in mental health assessment](#)</b><br/> Sai Sanjay Potluri, Md Abdullah Al Hafiz Khan and Yong Pei<br/>
