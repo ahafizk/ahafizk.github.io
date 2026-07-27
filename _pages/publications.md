@@ -17,16 +17,17 @@ author_profile: true
 ## Conference Publications
 
 ### 2026
-1. <b>[Human-AI Collaborative Framework for Identifying Behavioral Health Conditions from Clinical Notes.](#)</b><br/> Abm. Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei.<br/> 
-IEEE/ACM CHASE 2026. <b>Accepted</b>.
+
+1. <b>[TRACE: A Multi-Layer Benchmark for Human–AI–Controller Coordination Under Drift and Failure.](#)</b><br/> Josh Zuniga, Srinivasan Subramanian, Ramya Madhuri Narapureddy, Md Abdullah Al Hafiz Khan<br/> IEEE International Conference on Machine Learning and Applications (ICMLA), 2026 <b>Accepted</b>.
+
+
+1. <b>[Human-AI Collaborative Framework for Identifying Behavioral Health Conditions from Clinical Notes.](#)</b><br/> Abm. Adnan Azmee, Francis Nweke, Md Abdullah Al Hafiz Khan, Yong Pei.<br/> IEEE/ACM CHASE 2026. <b>Accepted</b>.
 
 1. <b>[Bypassing Krum: Selection-Aware Backdoor Attacks in Federated Learning.](#)</b><br/> Srinivasan Subramanian, Md Abdullah Al Hafiz Khan, Kazi Aminul Islam.<br/> 
 IEEE/ACM 2026 International Conference on Intelligent Multimedia, Networking, and Security (IMNS). <b>Accepted</b>.
 
 1. <b>[FedPAGR: Federated Prototype Alignment via Geometric Refinement for Heterogeneous Architectures.](https://aclanthology.org/2026.acl-srw.37/)</b><br/> Kris Prasad, Md Abdullah Al Hafiz Khan<br/> 
 Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop), 2026 <b>Published</b>.
-
-
 
 
 
